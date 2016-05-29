@@ -4,7 +4,11 @@
 
 ### An exception of class HTMLViewerException was not handled. The application must shut down. Exception message: HTMLViewer requires libgtkhtml
 
-Perhaps
+```
+sudo apt-get install libwebkitgtk-dev
+```
+
+This fails, `apt-cache search gtkhtml` finds nothing:
 
 ```
 sudo apt-get install libgtkhtml
