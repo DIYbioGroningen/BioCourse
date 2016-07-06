@@ -9,4 +9,6 @@ Ideeen
  * DNA halen uit aardbeien (Richel)
  * DDNA fingerprinting: PCR, dan electroforese, dan foto (?, evt. Richel)
  * Fylogenie maken (Richel)
+ * Game of Life (Richel)
+ * Predator-Prooi modellen
  * Computersimulaties (Richel)
