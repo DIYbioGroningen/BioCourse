@@ -1,6 +1,6 @@
 # Bio cursus
 
-![DJOG logo](DjogKleiner.png) <img src="DIYbioLogo.png" width="48">
+![DJOG logo](DjogKleiner.png) <img src="DIYbioLogo.png" width="200">
 
 Met de Bio cursus doen we onderzoek aan alles dat leeft. Ook onszelf dus! 
 En dat zijn ook heel veel verschillende dingen: van simpel naar buiten
