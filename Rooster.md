@@ -15,11 +15,30 @@ Wanneer|Wie|Wat
 2 nov|Richel|PCR les #2 + electroforese
 9 nov|Kevin|Leereffect meten op mensen (ons dus)
 16 nov|Jolien|?
-23 nov|Claudio|Snijpracticum
+23 nov|Claudio|DIY-agar
 30 nov|Richel|?
 7 dec|Kevin|T-shirt geur experiment
 14 dec|?|?Eindpresentatie
 21 dec|-|?Kerst
+
+## Class content
+
+###DNA extraction workshop by Claudio (avaialble on 5 Oct)
+Give introduction about DNA.
+Go through the procedure we will perform.
+Perform experiment.
+
+###PCR workshop part 1 by Claudio (available on 26 Oct)
+Explain PCR.
+Possible applications.
+Prepare PCR sample.
+Store sample for electrophoresis workshop.
+
+###DIY-agar workshop by Claudio (available on 23 Nov)
+Explain about the microscopic world.
+More baceria cells than human cells.
+Show how we can prepare some simple agar with homemade ingredients.
+Results will be visble the week after (next lesson).
 
 ## Losse ideeen
 
