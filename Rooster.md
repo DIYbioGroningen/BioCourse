@@ -2,6 +2,32 @@
 
 Eerste opzet van een rooster
 
+Wanneer|Wie
+---|---
+7 sep|Richel + iedereen die kan
+14 sep|Kevin
+21 sep| 
+28 sep|Jolien
+5 okt|Richel
+12 okt|Kevin
+19 okt|
+26 okt|Jolien
+2 nov|Richel
+9 nov|Kevin
+16 nov|
+23 nov|Jolien
+30 nov|Kevin
+7 dec|Richel + iedereen die kan
+14 dec|?|?Eindpresentatie
+21 dec|-|?Kerst
+
+ * Kevin: 1x per vier weken
+ * Jolien: 1x per vier weken
+ * Richel: 1x per vier weken
+
+## Oude opzet
+
+
 Wanneer|Wie|Wat
 ---|---|---
 7 sep|Richel + Winand|Intro + Meelwormen verzorgen en mee naar huis
