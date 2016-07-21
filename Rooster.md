@@ -18,12 +18,13 @@ Wanneer|Wie
 23 nov|
 30 nov|Kevin
 7 dec|Richel + iedereen die kan
-14 dec|Leerlingen|?Eindpresentatie
-21 dec|-|Kerst
+14 dec|?Eindpresentatie
+21 dec|Kerst (geen les)
 
  * Kevin: 1x per vier weken
  * Jolien: 1x per vier weken
  * Richel: 1x per vier weken
+ * Peter: 1x in totaal
 
 ## Oude opzet
 
