@@ -6,24 +6,25 @@ Wanneer|Wie
 ---|---
 7 sep|Richel + iedereen die kan
 14 sep|Kevin
-21 sep| 
-28 sep|Jolien
-5 okt|Richel
+21 sep|Jolien
+28 sep|Richel
+5 okt|Jolien
 12 okt|Kevin
-19 okt|
+19 okt|Richel
 26 okt|Jolien
-2 nov|Richel
+2 nov|Peter
 9 nov|Kevin
-16 nov|
-23 nov|Jolien
+16 nov|Jolien
+23 nov|
 30 nov|Kevin
 7 dec|Richel + iedereen die kan
-14 dec|?|?Eindpresentatie
-21 dec|-|?Kerst
+14 dec|?Eindpresentatie
+21 dec|Kerst (geen les)
 
  * Kevin: 1x per vier weken
  * Jolien: 1x per vier weken
  * Richel: 1x per vier weken
+ * Peter: 1x in totaal
 
 ## Oude opzet
 
