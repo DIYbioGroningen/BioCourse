@@ -12,7 +12,7 @@ Wanneer|Wie
 12 okt|Kevin
 19 okt|Richel
 26 okt|Jolien
-2 nov|
+2 nov|Peter
 9 nov|Kevin
 16 nov|Jolien
 23 nov|
