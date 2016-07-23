@@ -46,26 +46,3 @@ Explain about the microscopic world.
 More baceria cells than human cells.
 Show how we can prepare some simple agar with homemade ingredients.
 Results will be visble the week after (next lesson).
-
-## Losse ideeen
-
- * Hoe doe ik een experiment?
- * Meelwormen
-    * race (Richel)
-    * andere experimenten (leerlingen)
- * Aquaponics (Thijs, Winand, Richel)
- * Theoretische biologie
-    * Fylogenie maken (Richel)
-    * Game of Life (Richel)
-    * Predator-Prooi modellen (Richel)
-    * Computersimulaties (Richel)
-    * Digitale organismen (Richel)
- * Mealworm races (Richel)
- * Microfluidics (Winand)
- * In silico cloning (Alessio)
- * PCR and electrophoresis (Richel)
- * The evolution game (Johan and Claudio)
- * Game of life (Richel)
- * Phylogenetics (Richel)
- * Dissection, offal is a logical choice
- * Make an insect keychain (Jolien, Winand)
