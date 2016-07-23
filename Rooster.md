@@ -7,23 +7,24 @@ Wanneer|Wie
 7 sep|Richel + iedereen die kan
 14 sep|Kevin
 21 sep|Jolien
-28 sep|Richel
-5 okt|Jolien
-12 okt|Kevin
-19 okt|Richel
-26 okt|Jolien
-2 nov|Peter
-9 nov|Kevin
-16 nov|Jolien
-23 nov|
+28 sep|Winand
+5 okt|Kevin
+12 okt|Jolien
+19 okt|Winand
+26 okt|Peter
+2 nov|Kevin
+9 nov|Jolien
+16 nov|Winand
+23 nov|Jolien
 30 nov|Kevin
 7 dec|Richel + iedereen die kan
-14 dec|?Eindpresentatie
+14 dec|?Eindpresentatie, anders Richel
 21 dec|Kerst (geen les)
 
  * Kevin: 1x per vier weken
  * Jolien: 1x per vier weken
- * Richel: 1x per vier weken
+ * Richel: moeilijkere lessen, invaller
+ * Winand: 3x in totaal
  * Peter: 1x in totaal
 
 ## Oude opzet
