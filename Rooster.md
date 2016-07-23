@@ -2,52 +2,31 @@
 
 Eerste opzet van een rooster
 
-Wanneer|Wie
----|---
-7 sep|Richel + iedereen die kan
-14 sep|Kevin
-21 sep|Jolien
-28 sep|Winand
-5 okt|Kevin
-12 okt|Jolien
-19 okt|Winand
-26 okt|Peter
-2 nov|Kevin
-9 nov|Jolien
-16 nov|Winand
-23 nov|Jolien
-30 nov|Kevin
-7 dec|Richel + iedereen die kan
-14 dec|?Eindpresentatie, anders Richel
-21 dec|Kerst (geen les)
+Wanneer|Wie|Wat
+---|---|---
+7 sep|Richel + iedereen die kan|Introductie van de cursus, vakgebieden in de biologie, meelwormen verzorgen
+14 sep|Kevin|Gedragsonderzoek aan muizen
+21 sep|Jolien|Schedels en skeletten, naar buiten gaan
+28 sep|Winand|DNA uit aardbeien
+5 okt|Kevin|Luipaard / Spongebob gedrag
+12 okt|Jolien|zuigsnuit maken en insecten vangen (waarschijnlijk kan ik hulp regelen van iemand die veel van insecten weet
+19 okt|Winand|DIY agar
+26 okt|Peter|Microscopie
+2 nov|Kevin|Leereffect meten op mensen (ons dus)
+9 nov|Jolien|telefoon loep maken en het veld ( of de sloot) in
+16 nov|Winand|Maak het microscopisch macroscopisch
+23 nov|Jolien|hygiene test op petrischaaltjes ( kweek kunnen ze over een week terugkijken)
+30 nov|Kevin|T-shirt geur experiment
+7 dec|Richel + iedereen die kan|Dingen die we niet gedaan hebben, maar volgend jaar gaan doen
+14 dec|Leerlingen|?Eindpresentatie, anders Richel
+21 dec|Iedereen|Kerst, geen les
 
  * Kevin: 1x per vier weken
  * Jolien: 1x per vier weken
- * Richel: moeilijkere lessen, invaller
+ * Richel: Invaller
  * Winand: 3x in totaal
  * Peter: 1x in totaal
 
-## Oude opzet
-
-
-Wanneer|Wie|Wat
----|---|---
-7 sep|Richel + Winand|Intro + Meelwormen verzorgen en mee naar huis
-14 sep|Kevin|Gedragsonderzoek aan muizen
-21 sep|Jeroen|Gedragsonderzoek aan gemuteerde vliegen (Jeroen)
-28 sep|Jolien|Schedels en skeletten, naar buiten gaan
-5 okt|Claudio + Winand|DNA uit aardbeien halen
-12 okt|Kevin|Luipaard / Spongebob gedrag
-19 okt|Jeroen|?
-26 okt|Claudio|PCR les #1
-2 nov|Richel|PCR les #2 + electroforese
-9 nov|Kevin|Leereffect meten op mensen (ons dus)
-16 nov|Jolien|?
-23 nov|Claudio|DIY-agar
-30 nov|Richel|?
-7 dec|Kevin|T-shirt geur experiment
-14 dec|?|?Eindpresentatie
-21 dec|-|?Kerst
 
 ## Class content
 
@@ -74,11 +53,6 @@ Results will be visble the week after (next lesson).
  * Meelwormen
     * race (Richel)
     * andere experimenten (leerlingen)
- * Op Avontuur (ook wel: naar buiten)  (Richel)
- * DNA halen uit aardbeien (Richel)
- * DDNA fingerprinting
-    * PCR (?, evt. Richel)
-    * electroforese + foto (?, evt. Richel)
  * Aquaponics (Thijs, Winand, Richel)
  * Theoretische biologie
     * Fylogenie maken (Richel)
@@ -86,18 +60,12 @@ Results will be visble the week after (next lesson).
     * Predator-Prooi modellen (Richel)
     * Computersimulaties (Richel)
     * Digitale organismen (Richel)
-
-Mealworm races (Richel)
-
-
-Microfluidics (Winand)
-In silico cloning (Alessio)
-PCR and electrophoresis
-The evolution game (Johan and Claudio)
-Game of life (Richel)
-Phylogenetics (Richel)
-
-Making the microscopic macroscopic (Winand)
-Dissection, offal is a logical choice
-
-Make an insect keychain (Jolien, Winand)
+ * Mealworm races (Richel)
+ * Microfluidics (Winand)
+ * In silico cloning (Alessio)
+ * PCR and electrophoresis (Richel)
+ * The evolution game (Johan and Claudio)
+ * Game of life (Richel)
+ * Phylogenetics (Richel)
+ * Dissection, offal is a logical choice
+ * Make an insect keychain (Jolien, Winand)
