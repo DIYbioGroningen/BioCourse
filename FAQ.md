@@ -54,8 +54,17 @@ Kevin doet veel met gedrag.
 
 ![Richel](Images/Richel.png)
 
-Richel is biologie wetenschapper aan de universiteit. Hij vind lesgeven belangrijk en is dan ook bevoegd (eerstegraads) docent.
+Richel is biologie wetenschapper aan de universiteit. Hij vind lesgeven belangrijk 
+en is dan ook bevoegd (eerstegraads) docent.
 Hij coordineert de cursus en doet alle saaie dingen die daarbij horen.
+
+Hij is vooral fan van de theoretische biologie:
+het onderzoeken van leven op de computer,
+met computerprogramma's en rekenen.
+
+Zijn favoriete levensvormen zijn digitale organismen,
+de regenworm, de huisvlieg, de bodemmijt, vliegenvangers
+en windverstuivende planten.  
 
 ### Winand
 
