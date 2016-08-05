@@ -5,10 +5,10 @@ Eerste opzet van een rooster
 Wanneer|Wie|Wat
 ---|---|---
 7 sep|Richel + iedereen die kan|Introductie van de cursus, vakgebieden in de biologie, meelwormen verzorgen
-14 sep|Kevin|Gedragsonderzoek aan muizen
+14 sep|Kevin|Dieren / Spongebob gedrag
 21 sep|Jolien|Schedels en skeletten, naar buiten gaan
 28 sep|Winand|DNA uit aardbeien
-5 okt|Kevin|Luipaard / Spongebob gedrag
+5 okt|Kevin|Gedragsonderzoek aan muizen
 12 okt|Jolien|zuigsnuit maken en insecten vangen (waarschijnlijk kan ik hulp regelen van iemand die veel van insecten weet
 19 okt|Winand|DIY agar
 26 okt|Peter|Microscopie
