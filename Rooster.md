@@ -6,10 +6,10 @@ Wanneer|Wie|Wat
 ---|---|---
 7 sep|Richel + iedereen die kan|Introductie van de cursus, vakgebieden in de biologie, meelwormen verzorgen
 14 sep|Kevin|Dieren / Spongebob gedrag
-21 sep|Jolien|Schedels en skeletten, naar buiten gaan
+21 sep|Jolien|zuigsnuit maken en insecten vangen
 28 sep|Winand|DNA uit aardbeien
 5 okt|Kevin|Gedragsonderzoek aan muizen
-12 okt|Jolien|zuigsnuit maken en insecten vangen (waarschijnlijk kan ik hulp regelen van iemand die veel van insecten weet
+12 okt|Jolien|Schedels en skeletten, naar buiten gaan
 19 okt|Winand|DIY agar
 26 okt|Peter|Microscopie
 2 nov|Kevin|Leereffect meten op mensen (ons dus)
