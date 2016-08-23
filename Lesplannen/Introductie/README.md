@@ -45,17 +45,17 @@ Iedereen DIYbio T-shirt aan!
    * Wat is theoretische biologie?
    * Wat gaan we volgende week doen?
 
-## Oud
+## Lesplanning theorie (blokje van 10 minuten)
 
-## Oude lesdoelen
+ * Waarom zijn dieren niet altijd aardig
+ * Vertel duif/havik verhaal
 
- * Introductie wetenschappelijke methode   
+De ander is een: |Duif|Havik
+---|---|---
+Ik ben een Duif|Ik krijg 4 punten|Ik krijg 0 punten
+Ik ben een Havik|Ik krijg 10 punten|Ik krijg -5 punten
 
-## Oude lesplanning
 
- * 19:45 introductie wetenschappelijke methode
-    * (Onderzoeksvraag) wat wil je weten?
-    * (Hypothese) Wat denk je dat het antwoord is?
-    * (Materiaal en methode) Hoe ga je dat meten?
-    * (Resultaten) Wat meet je?
-    * (Conclusie) Wat is het antwoord?
+ * Eerst iedereen duif
+ * Dan een havik
+ * Dan alleen havikken
