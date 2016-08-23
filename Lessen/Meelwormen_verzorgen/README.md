@@ -2,6 +2,8 @@
 
 In deze les leer je de meelwormen te verzorgen.
 
+![Meelwormen](../../Meelwormen.jpg)
+
 ## De meelwormen boerderij
 
 De meelwormen boerderij heeft vier laatjes. Van boven naar onder zijn dit:
