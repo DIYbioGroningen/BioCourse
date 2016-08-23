@@ -25,13 +25,13 @@ Iedereen DIYbio T-shirt aan!
    * interessante dingen op tafel in lab: meelwormen, DNA spullen, etc.
  * 18:15: voorbereiding R klaar, niet-R gastheer bij deur, R gastheer in lab, R praat met ouders
  * 18:30: deur open, niet-R gastheer bij deur, R gastheer in lab, R praat met ouders
- * 18:45-19:15: verzorgen meelwormen, zie les [meelwormen verzorgen](../Lessen/Meelwormen_verzorgen/README.md)
+ * 18:45-19:15: verzorgen meelwormen, zie les [meelwormen verzorgen](../../Lessen/Meelwormen_verzorgen/README.md)
  * 19:15-19:30: begin introductie cursus
    * laptops, stekkerdozen halen, aanzetten, op website
    * Opdracht: zet alle laptops op de website van deze cursus
    * Vragen: wanneer moet je nette kleren aan? Hoeveel leraren zijn er? Waarop gaan we proefjes doen?
  * 19:30-19:45 pauze 
- * 19:45-19:50 Intro carroussel: Verdeling in groepjes, wissel na hard geluid
+ * 19:45-19:50 Intro carroussel: Verdeling in maximaal vier groepjes van minstens twee, wissel na hard geluid
    * 19:50-20:00 1e bezoek
    * 20:00-20:10 2e bezoek
    * 20:10-20:20 3e bezoek
@@ -48,13 +48,7 @@ Iedereen DIYbio T-shirt aan!
 ## Lesplanning theorie (blokje van 10 minuten)
 
  * Waarom zijn dieren niet altijd aardig
- * Vertel duif/havik verhaal
-
-De ander is een: |Duif|Havik
----|---|---
-Ik ben een Duif|Ik krijg 4 punten|Ik krijg 0 punten
-Ik ben een Havik|Ik krijg 10 punten|Ik krijg -5 punten
-
+ * Vertel duif/havik verhaal, zie les [duiven en havikken](../../Lessen/Duiven_en_havikken/README.md)
 
  * Eerst iedereen duif
  * Dan een havik
