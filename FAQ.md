@@ -8,10 +8,17 @@ Soms werken we met dode wezens, levende wezens en video's van levende wezens.
 In het [rooster](Rooster.md) kun je een beetje zien wat we gaan doen,
 maar dit kan altijd veranderen.
 
-
 ## Er is een les die mij eng lijkt. Is dat erg?
 
 Nee hoor, je mag altijd op een afstandje kijken wat de rest doet.
+
+## Ik heb de eerste les gemist. Is dat erg?
+
+Nee hoor, je bent altijd welkom om in te stromen.
+
+## Ik ben een les ziek, waar kan ik mij afmelden?
+
+Stuur een emailtje naar [http://www.richelbilderbeek/Email.png](Richel).
 
 ## Werken jullie met levende wezens?
 
