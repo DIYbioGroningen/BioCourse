@@ -15,7 +15,7 @@ Wanneer|Wie|Wat
 2 nov|Kevin|Leereffect meten op mensen (ons dus)
 9 nov|Jolien|telefoon loep maken en het veld ( of de sloot) in
 16 nov|Winand|Maak het microscopisch macroscopisch
-23 nov|Jolien|hygiene test op petrischaaltjes ( kweek kunnen ze over een week terugkijken)
+23 nov|Jolien|Snijpracticum ?hart
 30 nov|Kevin|T-shirt geur experiment
 7 dec|Richel + iedereen die kan|Dingen die we niet gedaan hebben, maar volgend jaar gaan doen
 14 dec|Leerlingen|?Eindpresentatie, anders Richel
