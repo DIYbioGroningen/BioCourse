@@ -18,7 +18,7 @@ Nee hoor, je bent altijd welkom om in te stromen.
 
 ## Ik ben een les ziek, waar kan ik mij afmelden?
 
-Stuur een emailtje naar [http://www.richelbilderbeek/Email.png](Richel).
+Stuur een emailtje naar [Richel](http://www.richelbilderbeek/Email.png).
 
 ## Werken jullie met levende wezens?
 
