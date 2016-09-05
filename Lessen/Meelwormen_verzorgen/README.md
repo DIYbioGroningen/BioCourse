@@ -2,7 +2,7 @@
 
 In deze les leer je de meelwormen te verzorgen.
 
-![Meelwormen](../../Meelwormen.jpg)
+![Meelwormen](Meelwormen.jpg)
 
 ## De meelwormen boerderij
 

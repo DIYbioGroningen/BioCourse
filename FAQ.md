@@ -59,7 +59,7 @@ Kevin doet veel met gedrag.
 
 ### [Richel](https://github.com/richelbilderbeek)
 
-![Richel](Images/Richel.png)
+![Richel](Plaatjes/Richel.png)
 
 Richel is biologie wetenschapper aan de universiteit. Hij vind lesgeven belangrijk 
 en is dan ook bevoegd (eerstegraads) docent.
@@ -81,7 +81,7 @@ Winand werkt in het FabLab is erg handig met 3D printers, lasersnijden en andere
 
 Jazeker, wij hebben een paar meelwormen die we verzorgen:
 
-![Meelwormen](Meelwormen.jpg)
+![Meelwormen](Plaatjes/Meelwormen.jpg)
 
 # Wat is de missie van de cursus?
 
