@@ -16,6 +16,26 @@ Eerste les, aantal leerlingen onbekend
    * Genetica (Winand)
    * Theoretische biologie (Richel)
 
+## Voorbereiding
+
+Op het bord:
+
+```
+18:30 Welkom!
+18:45 Meelwormen verzorgen
+19:05 Cursus
+19:20 Pauze
+19:35 4x kort bezoek + plattegrond
+20:20 Wat hebben we gedaan?
+```
+
+ * Logboek
+ * Pen
+ * 20x DJO inschrijfformulieren
+ * Meelwormen
+ * 100x fisches Havikken en Duiven  
+ * 10x kaart Havikken en Duiven
+
 ## Lesplanning
 
 Iedereen DIYbio T-shirt aan!

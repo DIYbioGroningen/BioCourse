@@ -48,3 +48,7 @@ In het logboek houden we bij hoe het met de meelwormen gaat.
  * Zit er een slimmigheid in de volgorde van de laatjes?
  * Waarom gebruiken wetenschappers een logboek?
 
+## Voorbereiding (voor docenten)
+
+ * Logboek
+ * Pen
