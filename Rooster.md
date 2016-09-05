@@ -20,29 +20,3 @@ Wanneer|Wie|Wat
 7 dec|Richel + iedereen die kan|Dingen die we niet gedaan hebben, maar volgend jaar gaan doen
 14 dec|Leerlingen|?Eindpresentatie, anders Richel
 21 dec|Iedereen|Kerst, geen les
-
- * Kevin: 1x per vier weken
- * Jolien: 1x per vier weken
- * Richel: Invaller
- * Winand: 3x in totaal
- * Peter: 1x in totaal
-
-
-## Class content
-
-###DNA extraction workshop by Claudio (avaialble on 5 Oct)
-Give introduction about DNA.
-Go through the procedure we will perform.
-Perform experiment.
-
-###PCR workshop part 1 by Claudio (available on 26 Oct)
-Explain PCR.
-Possible applications.
-Prepare PCR sample.
-Store sample for electrophoresis workshop.
-
-###DIY-agar workshop by Claudio (available on 23 Nov)
-Explain about the microscopic world.
-More baceria cells than human cells.
-Show how we can prepare some simple agar with homemade ingredients.
-Results will be visble the week after (next lesson).
