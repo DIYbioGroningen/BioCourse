@@ -8,7 +8,7 @@ Laat 2 minuten film zien van documentaire 'Life' [https://www.youtube.com/watch?
 
 'Al deze dieren zijn hun hele leven bezig te overleven. Ze hebben eten nodig, water en uiteindelijk willen ze een partner om te zorgen voor een volgende generatie. Al deze dingen gaan niet vanzelf, ze worden aangestuurd door het belangrijkste orgaan van je lichaam: Je hersenen'
 
-'Je hersenen kan je zien als een supercomputer die wordt beschermt door je schedel. Je stopt er iets iets ... een stimulus. En daaropvolgend komt er iets uit ... gedrag. Dit gebeurt bijvoorbeeld als je een berichtje krijgt op je telefoon. Je hoort een ringtone of de trilling van je telefoon ... je pakt hem op om te lezen. Stimuli zijn er in alle soorten en maten, van heel simpel tot heel ingewikkeld en hetzelfde geldt voor reacties.'
+'Je hersenen kan je zien als een supercomputer die wordt beschermt door je schedel. Je stopt er iets in ... een stimulus. En daaropvolgend komt er iets uit ... gedrag. Dit gebeurt bijvoorbeeld als je een berichtje krijgt op je telefoon. Je hoort een ringtone of de trilling van je telefoon ... je pakt hem op om te lezen. Stimuli zijn er in alle soorten en maten, van heel simpel tot heel ingewikkeld en hetzelfde geldt voor reacties.'
 
 ## Vragen
 
