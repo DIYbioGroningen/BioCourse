@@ -25,7 +25,7 @@ we de natuur in :-)
    * Januari tot en met mei: 20 euro
    * Juni en juli: 10 euro
  * Leeftijd: 8-25 jaar
- * Benodigdheden: Laptop met WiFi
+ * Benodigdheden: Niks, maar als je een laptop met WiFi hebt, neem die dan mee 
 
 Zie [hier het rooster](Rooster.md).
  
