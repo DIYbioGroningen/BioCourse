@@ -6,8 +6,8 @@ Wanneer|Wie|Wat
 ---|---|---
 7 sep|Richel + iedereen die kan|Introductie van de cursus, vakgebieden in de biologie, meelwormen verzorgen
 14 sep|Jolien|Snijpracticum vis
-21 sep|Kevin en Richel|Spongebob gedrag, duiven en havikken
-28 sep|Peter en Richel|Microscopie, allometrie
+21 sep|Kevin en Richel|Spongebob gedrag, mieren
+28 sep|Bas|Enzymen
 5 okt|Bas en Winand|Enzymen
 12 okt|Jolien|Schedels en skeletten, naar buiten gaan
 19 okt|Kevin|Gedragsonderzoek aan muizen
@@ -21,5 +21,4 @@ Wanneer|Wie|Wat
 14 dec|Leerlingen|?Eindpresentatie, anders Richel
 21 dec|Iedereen|Kerst, geen les
 ?|Winand|DIY agar
-
-
+?|Peter|Microscopie
