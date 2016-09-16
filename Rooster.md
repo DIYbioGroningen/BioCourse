@@ -8,7 +8,7 @@ Wanneer|Wie|Wat
 14 sep|Jolien|Snijpracticum vis
 21 sep|Kevin en Richel|Spongebob gedrag, mieren
 28 sep|Bas|Enzymen
-5 okt|Bas en Winand|Enzymen
+5 okt|?|?
 12 okt|Jolien|Schedels en skeletten, naar buiten gaan
 19 okt|Kevin|Gedragsonderzoek aan muizen
 26 okt|Winand|DNA uit aardbeien
