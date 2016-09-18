@@ -11,7 +11,7 @@ Wanneer|Wie|Wat
 5 okt|?|?
 12 okt|Jolien|Schedels en skeletten, naar buiten gaan
 19 okt|Kevin|Gedragsonderzoek aan muizen
-26 okt|Winand|DNA uit aardbeien
+26 okt|Winand + Bas|DNA uit aardbeien
 2 nov|Kevin|Leereffect meten op mensen (ons dus)
 9 nov|Jolien|telefoon loep maken en het veld ( of de sloot) in
 16 nov|Winand|Maak het microscopisch macroscopisch
