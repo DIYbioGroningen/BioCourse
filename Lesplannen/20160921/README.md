@@ -37,9 +37,12 @@ Iedereen DIYbio T-shirt aan!
 
 Iemand anders vinden om de ranja in te schenken
 
+
+
  * 19:30: voorbereiding: 
    * Boris zet zijn mierenkolonie op de middentafel
  * 19:45: start les: mierenkolonie Boris + woordweb: observeren gedrag
+ * ??:??: filmpje [hiero](https://www.youtube.com/watch?v=lFg21x2sj-M)
  * ??:??: Waarom zijn mieren cool?
    * Veeteelt: Lasius Niger, wegmier, ook wel zwarte wegmier of zwartbruine wegmier, black garden ant: verbouwen bladluizen
    * Landbouw: Atta en Acromyrmex, bladsnijdersmieren, leafcutter ant: schimmels als voer
