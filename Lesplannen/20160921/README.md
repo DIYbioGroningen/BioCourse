@@ -56,11 +56,11 @@ Iemand anders vinden om de ranja in te schenken
 
 ## Acknowledgements
 
-## Reference unknown
+## Source unknown
 
 ![AttaSexdensColony](AttaSexdensColony.jpg)
 
-## Boris Kramer
+## Source unknown
 
 ![Cattle](Cattle.png)
 
