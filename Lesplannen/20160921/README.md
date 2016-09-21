@@ -10,23 +10,24 @@
 
 ## Lesdoelen
 
- * 
+ * Levenscyclus mier: ei, larve, pop, mier
+ * Gedrag mieren: eieren leggen, koningin/eieren/larven/poppen verzorgen, afval wegbrengen, soldaten
+ * Gedrag miersoorten: akkerbouw, veeteelt, slavernij
+ * Verzorging mieren: suikerwater en eiwitten
 
 ## Voorbereiding
 
 Op het bord:
 
 ```
-[niet https://github.com/DIYbioGroningen/BioCourse]
-
-18:30 Welkom!
-18:45 Meelwormen verzorgen
-19:05 Cursus
-19:20 Pauze
-19:35 Carroussel
-20:20 Wat hebben we gedaan?
-
-[plattegrond carroussel]
+19:45 Mierenkolonie Boris
+19:50 Woordweb mieren
+19:55 Waarom zijn mieren cool?
+20:00 Levenstadia, taken en verzorging opzoeken
+20:10 Bespreken
+20:15 Filmpje
+20:20 Verzorgen mier
+20:25 Nabespreking
 
 DJOG1402
 ```
@@ -37,12 +38,10 @@ Iedereen DIYbio T-shirt aan!
 
 Iemand anders vinden om de ranja in te schenken
 
-
-
  * 19:30: voorbereiding: 
    * Boris zet zijn mierenkolonie op de middentafel
+   * [filmpje laden](https://www.youtube.com/watch?v=lFg21x2sj-M)
  * 19:45: start les: mierenkolonie Boris + woordweb: observeren gedrag
- * ??:??: filmpje [hiero](https://www.youtube.com/watch?v=lFg21x2sj-M)
  * ??:??: Waarom zijn mieren cool?
    * Veeteelt: Lasius Niger, wegmier, ook wel zwarte wegmier of zwartbruine wegmier, black garden ant: verbouwen bladluizen
    * Landbouw: Atta en Acromyrmex, bladsnijdersmieren, leafcutter ant: schimmels als voer
@@ -50,24 +49,42 @@ Iemand anders vinden om de ranja in te schenken
  * Welke levenstadia heeft een mier?
  * Hoeveel kasten (vrouwtjes, mannetjes, koninginnen) zitten er in een mierenkolonie?
  * Wat heeft een mier nodig?
+ * ??:??: filmpje [hiero](https://www.youtube.com/watch?v=lFg21x2sj-M)
  * !Verzorging mier: suikerwater, eiwit, donder of rood
  * !Ontwerp een mierenkolonie?
  * Vraag het Boris
 
 ## Acknowledgements
 
-## antfarm.yuku.com
+## Reference unknown
 
-![Temnothorax](Temnothorax.jpg)
+![AttaSexdensColony](AttaSexdensColony.jpg)
+
+## Boris Kramer
+
+![Cattle](Cattle.png)
+
+## https://nl.wikipedia.org/wiki/Honingpotmieren#/media/File:HoneyAnt.jpg
+
+![Honey ant](HoneyAnt.jpg)
 
 ## https://commons.wikimedia.org/wiki/File:Hurtnica_pospolita.jpg
 
 ![Lasius niger](LasiusNiger.jpg)
 
+## Source unknown
+
+![LeafcutterAnts](LeafcutterAnts.jpg)
+
+## Source unknown
+
+![LeafcutterAntsFarming](LeafcutterAntsFarming.jpg)
+
 ## https://en.wikipedia.org/wiki/Leafcutter_ant#/media/File:Leafcutter_ants_transporting_leaves.jpg
 
 ![Leafcutter_ants_transporting_leaves.jpg](Leafcutter_ants_transporting_leaves.jpg)
 
-## https://nl.wikipedia.org/wiki/Honingpotmieren#/media/File:HoneyAnt.jpg
+## antfarm.yuku.com
 
-![Honey ant](HoneyAnt.jpg)
+![Temnothorax](Temnothorax.jpg)
+
