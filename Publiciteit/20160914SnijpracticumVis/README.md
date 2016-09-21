@@ -20,7 +20,7 @@ Minderjarigen met scalpels [1]
 
 ![Snijden](Snijden.jpg)
 
-![Snijden 2](Snijden 2.jpg)
+![Snijden 2](Snijden2.jpg)
 
 Elke leerling heeft een eigen vis opengesneden met een eigen snijset: 
 
