@@ -74,11 +74,11 @@ Iemand anders vinden om de ranja in te schenken
 
 ## Source unknown
 
-![LeafcutterAnts](LeafcutterAnts.jpg)
+![LeafcutterAnts](LeafcutterAnts.png)
 
 ## Source unknown
 
-![LeafcutterAntsFarming](LeafcutterAntsFarming.jpg)
+![LeafcutterAntsFarming](LeafcutterAntsFarming.png)
 
 ## https://en.wikipedia.org/wiki/Leafcutter_ant#/media/File:Leafcutter_ants_transporting_leaves.jpg
 
