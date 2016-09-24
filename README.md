@@ -1,6 +1,6 @@
 # Bio cursus
 
-![DJOG logo](DjogKleiner.png) <img src="DIYbioLogo.png" width="200">
+![DJOG logo](Plaatjes/DjogKleiner.png) <img src="Plaatjes/DIYbioLogo.png" width="200">
 
 Met de Bio cursus doen we onderzoek aan alles dat leeft. Ook onszelf dus! 
 En dat zijn ook heel veel verschillende dingen: van simpel naar buiten
@@ -25,7 +25,7 @@ we de natuur in :-)
    * Januari tot en met mei: 20 euro
    * Juni en juli: 10 euro
  * Leeftijd: 8-25 jaar
- * Benodigdheden: Laptop met WiFi
+ * Benodigdheden: Niks, maar als je een laptop met WiFi hebt, neem die dan mee 
 
 Zie [hier het rooster](Rooster.md).
  

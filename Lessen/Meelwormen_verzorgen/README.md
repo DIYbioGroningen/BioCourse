@@ -2,7 +2,7 @@
 
 In deze les leer je de meelwormen te verzorgen.
 
-![Meelwormen](../../Meelwormen.jpg)
+![Meelwormen](Meelwormen.jpg)
 
 ## De meelwormen boerderij
 
@@ -23,6 +23,11 @@ In het logboek houden we bij hoe het met de meelwormen gaat.
 
 ## Opdracht
 
+Zet de vier bakken van de meelwormen in een vierkant, 
+zoals bijvoorbeeld zo:
+
+![Mogelijke tafelopstelling](Mogelijke_tafelopstelling.png)
+
  * Zoek de eerste vrije bladzijde in het logboek
  * Schrijf op: 
    * de dag, bijvoorbeeld 'Woensdag 7 september 2016'
@@ -33,7 +38,7 @@ In het logboek houden we bij hoe het met de meelwormen gaat.
  * In de la van de poppen: tel de hoeveelheid kevers en schrijf dit op in het logboek. Verplaats de kevers naar de la van de kevers
  * In de la van de kevers: haal de kevers van de stukjes aardappel/wortel. Tel de eitjes op de aardappel/wortel en schrijf dit op in het logboek. Leg de aardappel/wortel in de la van de eitjes
  * In de la van de eitjes: tel de hoeveelheid jonge wormen en schrijf dit op in het logboek. Verplaats de wormen naar de la van de wormen
- * Snij een aardappel/wortel in dunne schijfjes. Leg de meeste schrijfjes bij de kevers, leg een schijfje bij de wormen. Schrijf dit op in het logboek
+ * Snij een aardappel/wortel in dunne schijfjes. Leg de meeste schrijfjes bij de kevers, leg een schijfje bij de wormen. Schrijf op in het logboek hoe je het voedsel verdeeld hebt
 
 ## Vragen
 
@@ -47,4 +52,11 @@ In het logboek houden we bij hoe het met de meelwormen gaat.
  * Hoe gaat het leven van een meelworm? Of: hoe reist een meelworm door de laatjes van de boerderij?
  * Zit er een slimmigheid in de volgorde van de laatjes?
  * Waarom gebruiken wetenschappers een logboek?
+
+## Voorbereiding (voor docenten)
+
+ * Logboek
+ * Pen
+ * Aardappel of wortel
+ * Mes
 
