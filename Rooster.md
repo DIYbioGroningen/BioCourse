@@ -4,11 +4,11 @@ Ons lesrooster, onderhevig aan veranderingen
 
 Wanneer|Wie|Wat
 ---|---|---
-7 sep|Richel + iedereen die kan|Introductie van de cursus, vakgebieden in de biologie, meelwormen verzorgen
-14 sep|Jolien|Snijpracticum vis
-21 sep|Kevin en Richel|Spongebob gedrag, mieren
+:white_check_mark: 7 sep|Richel + iedereen die kan|Introductie van de cursus, vakgebieden in de biologie, meelwormen verzorgen
+:white_check_mark: 14 sep|Jolien|Snijpracticum vis
+:white_check_mark: 21 sep|Kevin en Richel|Spongebob gedrag, mieren
 28 sep|Bas|Enzymen
-5 okt|?|?
+5 okt|Peter en Richel|Microscopie, allometrie
 12 okt|Jolien|Schedels en skeletten, naar buiten gaan
 19 okt|Kevin|Gedragsonderzoek aan muizen
 26 okt|Winand + Bas|DNA uit aardbeien
