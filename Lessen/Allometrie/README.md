@@ -16,14 +16,47 @@ Grootte bepaalt onder andere:
  * of het organisme kan vliegen
  * of het organisme kan lopen
 
-## Hoe sterk is een mier?
+## Eigenschappen van een mier
 
-Een gemiddelde mier weegt 0.0003 gram en is 3 mm lang
+![Bladsnijder mieren](LeafcutterAnts.png)
 
- * Gewicht: 0.003 gram of 3 milligram
- * Lengte: 0.003 meter of 3 mm
+Een mierenwerkster ...
 
-Hiermee kan een mier 50x zijn eigen gewicht *en zichzelf* tillen.
+ * weegt gemiddeld 3 milligram
+ * is gemiddeld 3 mm lang
+ * kan 50x haar gewicht dragen 
+
+## Hoeveel kan een mier tillen?
+
+Hoeveel milligram kan een mier dragen?
+
+```
+
+```
+
+Hints
+
+ * Dit is een keersom
+
+Dit is wat een mier kan dragen.
+Maar een mier heeft zelf ook een gewicht. 
+Een mier tilt ook zichzelf.
+
+Hoeveel milligram kan een mier tillen, als je het eigen gewicht meetelt?
+
+```
+
+```
+
+Hints
+
+ * Hiervoor heb je plus nodig
+
+## Een mier als spier
+
+
+
+
 
 Dit is dus 51 * 33 mg = 1683 mg
 
