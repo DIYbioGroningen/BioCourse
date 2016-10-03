@@ -35,7 +35,6 @@ Dit gaan we nu berekenen met drie kubusdieren:
 ![Kubusdier 1](1x1x1_rood.png)
 ![Kubusdier 2](2x2x2_groen.png)
 ![Kubusdier 3](4x4x4_blauw.png)
-![Kubusdier 3](4x4x4_blauw2.png)
 
 Ons eerste kubusdier is rood. 
 Het dier is een kubus van 1x1x1 cm en weegt 1 gram.
