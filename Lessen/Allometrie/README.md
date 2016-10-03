@@ -49,13 +49,13 @@ Dit dier kan 3 keer zijn eigen gewicht tillen!
 Dus:
 
  * Kubusdier 1 heeft een inhoud van `____` kubieke centimeter
- * Kubusdier 1 heeft een gewicht van `  ` gram
- * Kubusdier 1 heeft een grootte van `    ` centimeter bij  `    ` centimeter bij  `    ` centimeter
- * Kubusdier 1 heeft een spieropperlak van  `    ` centimeter bij  `    ` centimeter, dus `    ` vierkante centimeter
- * Een spier kan `   ` gram tillen per vierkante centimeter
- * Kubusdier 1 kan dus in totaal `    ` gram tillen
- * Kubusdier 1 kan dus `    ` gram meedragen
- * Kubusdier 1 tilt ` ` zijn eigen gewicht
+ * Kubusdier 1 heeft een gewicht van `____` gram
+ * Kubusdier 1 heeft een grootte van `____` centimeter bij  `____` centimeter bij  `____` centimeter
+ * Kubusdier 1 heeft een spieropperlak van  `____` centimeter bij  `____` centimeter, dus `____` vierkante centimeter
+ * Een spier kan `____` gram tillen per vierkante centimeter
+ * Kubusdier 1 kan in totaal `____` gram tillen
+ * Kubusdier 1 kan `____` gram meedragen
+ * Kubusdier 1 tilt `____` zijn eigen gewicht
 
 Nu vergroten we dit dier twee keer.
 
@@ -69,14 +69,14 @@ Nu vergroten we dit dier twee keer.
 
 Dus:
 
- * Kubusdier 2 heeft een inhoud van `  ` kubieke centimeter
- * Kubusdier 2 heeft een gewicht van `  ` gram
- * Kubusdier 2 heeft een grootte van `    ` centimeter bij  `    ` centimeter bij  `    ` centimeter
- * Kubusdier 2 heeft een spieropperlak van  `    ` centimeter bij  `    ` centimeter, dus `    ` vierkante centimeter
- * Een spier kan `   ` gram tillen per vierkante centimeter
- * Kubusdier 2 kan dus in totaal `    ` gram tillen
- * Kubusdier 2 kan dus `    ` gram meedragen
- * Kubusdier 2 tilt ` ` zijn eigen gewicht
+ * Kubusdier 2 heeft een inhoud van `____` kubieke centimeter
+ * Kubusdier 2 heeft een gewicht van `____` gram
+ * Kubusdier 2 heeft een grootte van `____` centimeter bij  `____` centimeter bij  `____` centimeter
+ * Kubusdier 2 heeft een spieropperlak van  `____` centimeter bij  `____` centimeter, dus `____` vierkante centimeter
+ * Een spier kan `____` gram tillen per vierkante centimeter
+ * Kubusdier 2 kan in totaal `____` gram tillen
+ * Kubusdier 2 kan `____` gram meedragen
+ * Kubusdier 2 tilt `____` zijn eigen gewicht
 
 Je ziet dat het dier minder vaak zijn gewicht kan tillen!
 
@@ -106,17 +106,14 @@ Nu vergroten we dit dier nog eens twee keer:
 
 Dus:
 
- * Kubusdier 3 heeft een inhoud van `  ` kubieke centimeter
- * Kubusdier 3 heeft een gewicht van `  ` gram
- * Kubusdier 3 heeft een grootte van `    ` centimeter bij  `    ` centimeter bij  `    ` centimeter
- * Kubusdier 3 heeft een spieropperlak van  `    ` centimeter bij  `    ` centimeter, dus `    ` vierkante centimeter
- * Een spier kan `   ` gram tillen per vierkante centimeter
- * Kubusdier 3 kan dus in totaal `    ` gram tillen
- * Kubusdier 3 kan dus `    ` gram meedragen
- * Kubusdier 3 tilt ` ` zijn eigen gewicht
-
-
-
+ * Kubusdier 3 heeft een inhoud van `____` kubieke centimeter
+ * Kubusdier 3 heeft een gewicht van `____` gram
+ * Kubusdier 3 heeft een grootte van `____` centimeter bij  `____` centimeter bij  `____` centimeter
+ * Kubusdier 3 heeft een spieropperlak van  `____` centimeter bij  `____` centimeter, dus `____` vierkante centimeter
+ * Een spier kan `____` gram tillen per vierkante centimeter
+ * Kubusdier 3 kan in totaal `____` gram tillen
+ * Kubusdier 3 kan `____` gram meedragen
+ * Kubusdier 3 tilt `____` zijn eigen gewicht
 
 ## Eigenschappen van een mier
 
@@ -130,12 +127,17 @@ Een mierenwerkster ...
 
 ## Overzicht berekening
 
- * Hoeveel kan een mier tillen?
- * Hoeveel spier is een mier?
- * Hoe sterk is een spier?
- * Hoeveel spier is een mens?
- * Hoe sterk is deze spier?
+We maken van de mier ook een kubusdier.
+We gaan deze getallen berekenen:
 
+ * Een kubusmier heeft een inhoud van `____` kubieke millimeter
+ * Een kubusmier heeft een gewicht van `____` milligram
+ * Een kubusmier heeft een grootte van `____` milliimeter bij  `____` millimeter bij  `____` millimeter
+ * Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
+ * Een kubusmierspier kan `____` milligram tillen per vierkante millimeter
+ * Een kubusmier kan in totaal `____` milligram tillen
+ * Een kubusmier kan `____` milligram meedragen
+ * Een kubusmier tilt `____` zijn eigen gewicht
 
 ## Hoeveel kan een mier tillen?
 
@@ -166,11 +168,11 @@ Maak de tabel af. Gebruik een rekenmachientje.
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-1 mm|1 mm3
-2 mm|
-3 mm|
-4 mm|
-5 mm|
+1 millimeter|1 kubieke millimeter
+2 millimeter|`____` kubieke millimeter 
+3 millimeter|`____` kubieke millimeter
+4 millimeter|`____` kubieke millimeter
+5 millimeter|`____` kubieke millimeter
 
 Een mierspier heeft een inhoud van 3 kubieke millimeter.
 Dit moet een kubus zijn met een grootte tussen `   ` mm en `    ` mm.
@@ -178,17 +180,17 @@ Nu gaan we preciezer rekenen tussen die twee getallen:
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-` `,0 mm|
-` `,1 mm|
-` `,2 mm|
-` `,3 mm|
-` `,4 mm|
-` `,5 mm|
-` `,6 mm|
-` `,7 mm|
-` `,8 mm|
-` `,9 mm|
-` `,0 mm|
+` `,0 millimeter|`__,____` kubieke millimeter
+` `,1 millimeter|`__,____` kubieke millimeter
+` `,2 millimeter|`__,____` kubieke millimeter
+` `,3 millimeter|`__,____` kubieke millimeter
+` `,4 millimeter|`__,____` kubieke millimeter
+` `,5 millimeter|`__,____` kubieke millimeter
+` `,6 millimeter|`__,____` kubieke millimeter
+` `,7 millimeter|`__,____` kubieke millimeter
+` `,8 millimeter|`__,____` kubieke millimeter
+` `,9 millimeter|`__,____` kubieke millimeter
+` `,0 millimeter|`__,____` kubieke millimeter
 
 Tussen welke twee groottes zit de grootte van een kubusmier in?
 
@@ -196,17 +198,17 @@ Nu gaan we weer preciezer rekenen:
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-` `,` `0 mm|
-` `,` `1 mm|
-` `,` `2 mm|
-` `,` `3 mm|
-` `,` `4 mm|
-` `,` `5 mm|
-` `,` `6 mm|
-` `,` `7 mm|
-` `,` `8 mm|
-` `,` `9 mm|
-` `,` `0 mm|
+` `,` `0 mm|`__,______` kubieke millimeter
+` `,` `1 mm|`__,______` kubieke millimeter
+` `,` `2 mm|`__,______` kubieke millimeter
+` `,` `3 mm|`__,______` kubieke millimeter
+` `,` `4 mm|`__,______` kubieke millimeter
+` `,` `5 mm|`__,______` kubieke millimeter
+` `,` `6 mm|`__,______` kubieke millimeter
+` `,` `7 mm|`__,______` kubieke millimeter
+` `,` `8 mm|`__,______` kubieke millimeter
+` `,` `9 mm|`__,______` kubieke millimeter
+` `,` `0 mm|`__,______` kubieke millimeter
 
 Dus:
  * De kubusmier heeft een inhoud van `  ` kubieke millimeter
