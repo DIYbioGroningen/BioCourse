@@ -22,8 +22,6 @@ Als je groter wordt, dan doe je dat in drie richtingen: je wordt breder, langer 
 Je gewicht neemt in alle drie de richtingen toe.
 Je spierkracht doet dat niet: alleen de spierdikte (en niet de lengte) bepaalt de kracht van een spier.
 
-![Glad spierweefsel](Smooth_muscle_tissue.jpg)
-
 ![Spier](KubusSpier.png)
 
 Stel je voor, met een machine wordt jij 2x zo lang gemaakt.
@@ -36,7 +34,7 @@ Dit gaan we nu berekenen met drie kubusdieren:
 
 ![Kubusdier 1](1x1x1_rood.png)
 ![Kubusdier 2](2x2x2_groen.png)
-![Kubusdier 3](3x3x3_blauw.png)
+![Kubusdier 3](4x4x4_blauw.png)
 
 Ons eerste kubusdier is rood. 
 Het dier is een kubus van 1x1x1 cm en weegt 1 gram.
@@ -48,6 +46,17 @@ Dit dier kan 3 keer zijn eigen gewicht tillen!
  * Hoeveel tilt dit dier? En nu inclusief het gewicht van het dier zelf?
  * Hoeveel kan een vierkante centimeter spier dus tillen?
 
+Dus:
+
+ * Kubusdier 1 heeft een inhoud van `  ` kubieke centimeter
+ * Kubusdier 1 heeft een gewicht van `  ` gram
+ * Kubusdier 1 heeft een grootte van `    ` centimeter bij  `    ` centimeter bij  `    ` centimeter
+ * Kubusdier 1 heeft een spieropperlak van  `    ` centimeter bij  `    ` centimeter, dus `    ` vierkante centimeter
+ * Een spier kan `   ` gram tillen per vierkante centimeter
+ * Kubusdier 1 kan dus in totaal `    ` gram tillen
+ * Kubusdier 1 kan dus `    ` gram meedragen
+ * Kubusdier 1 tilt ` ` zijn eigen gewicht
+
 Nu vergroten we dit dier twee keer.
 
 ![Kubusdier 2](2x2x2_groen.png)
@@ -57,6 +66,17 @@ Nu vergroten we dit dier twee keer.
  * Hoeveel spieroppervlak heeft het dier nu?
  * Hoeveel kracht heeft het dier? 
  * Hoeveel keer z'n eigen gewicht tilt dit dier nu?
+
+Dus:
+
+ * Kubusdier 2 heeft een inhoud van `  ` kubieke centimeter
+ * Kubusdier 2 heeft een gewicht van `  ` gram
+ * Kubusdier 2 heeft een grootte van `    ` centimeter bij  `    ` centimeter bij  `    ` centimeter
+ * Kubusdier 2 heeft een spieropperlak van  `    ` centimeter bij  `    ` centimeter, dus `    ` vierkante centimeter
+ * Een spier kan `   ` gram tillen per vierkante centimeter
+ * Kubusdier 2 kan dus in totaal `    ` gram tillen
+ * Kubusdier 2 kan dus `    ` gram meedragen
+ * Kubusdier 2 tilt ` ` zijn eigen gewicht
 
 Je ziet dat het dier minder vaak zijn gewicht kan tillen!
 
@@ -76,13 +96,27 @@ Terug naar ons kubusdier.
 Ons kubusdier was nu 2x2x2 centimeter. 
 Nu vergroten we dit dier nog eens twee keer:
 
-![Kubusdier 3](4x4x4_blauw.gif)
+![Kubusdier 3](4x4x4_blauw.png)
 
  * Hoe groot (lang, breed, diep) is het dier nu?
  * Hoe zwaar is het dier nu?
  * Hoeveel spieroppervlak heeft het dier nu?
  * Hoeveel kracht heeft het dier? 
  * Hoeveel keer z'n eigen gewicht tilt dit dier nu?
+
+Dus:
+
+ * Kubusdier 3 heeft een inhoud van `  ` kubieke centimeter
+ * Kubusdier 3 heeft een gewicht van `  ` gram
+ * Kubusdier 3 heeft een grootte van `    ` centimeter bij  `    ` centimeter bij  `    ` centimeter
+ * Kubusdier 3 heeft een spieropperlak van  `    ` centimeter bij  `    ` centimeter, dus `    ` vierkante centimeter
+ * Een spier kan `   ` gram tillen per vierkante centimeter
+ * Kubusdier 3 kan dus in totaal `    ` gram tillen
+ * Kubusdier 3 kan dus `    ` gram meedragen
+ * Kubusdier 3 tilt ` ` zijn eigen gewicht
+
+
+
 
 ## Eigenschappen van een mier
 
@@ -94,7 +128,7 @@ Een mierenwerkster ...
  * is gemiddeld 3 mm lang
  * kan 50x haar gewicht dragen 
 
-## Berekening
+## Overzicht berekening
 
  * Hoeveel kan een mier tillen?
  * Hoeveel spier is een mier?
@@ -111,10 +145,6 @@ Hoeveel milligram kan een mier dragen?
 
 ```
 
-Hints
-
- * Dit is een keersom
-
 Dit is wat een mier kan dragen.
 Maar een mier heeft zelf ook een gewicht. 
 Een mier tilt ook zichzelf.
@@ -125,23 +155,18 @@ Hoeveel milligram kan een mier tillen, als je het eigen gewicht meetelt?
 
 ```
 
-Hints
-
- * Hiervoor heb je plus nodig
-
 ## Hoeveel spier is een mier?
 
-We gaan net doen alsof de mier een spier is.
-De vorm van die spier is een kubus.
+We gaan nu van de mier een kubusdier maken.
 Een mier weegt 3 milligram.
 3 milligram is 3 kubieke millimeter.
-Hoe groot is een kubus van 3 kubieke millimeter?
+Hoe groot is een kubus met een inhoud van 3 kubieke millimeter?
 
 Maak de tabel af. Gebruik een rekenmachientje.
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-1 mm|
+1 mm|1 mm3
 2 mm|
 3 mm|
 4 mm|
@@ -165,40 +190,31 @@ Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ` `,9 mm|
 ` `,0 mm|
 
+Tussen welke twee groottes zit de grootte van een kubusmier in?
 
+Nu gaan we weer preciezer rekenen:
 
+Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
+---|---
+` `,` `0 mm|
+` `,` `1 mm|
+` `,` `2 mm|
+` `,` `3 mm|
+` `,` `4 mm|
+` `,` `5 mm|
+` `,` `6 mm|
+` `,` `7 mm|
+` `,` `8 mm|
+` `,` `9 mm|
+` `,` `0 mm|
 
-
+Dus:
+ * De kubusmier heeft een inhoud van `  ` kubieke millimeter
+ * De kubusmier heeft een gewicht van `  ` milligram.
+ * Onze kubusmier heeft een grootte van `    ` millimeter bij  `    ` millimeter bij  `    ` millimeter.
+ * Onze kubusmier heeft een spieropperlak van  `    ` millimeter bij  `    ` millimeter, dus `    ` vierkante millimeter.
 
 ## Hoe sterk is een spier?
-
- * Hoeveel spier is een mens?
- * Hoe sterk is deze spier?
-
-
-
-
-Dit is dus 51 * 33 mg = 1683 mg
-
-We nemen aan dat een mier dezelfde dichtheid heeft als water, dus 1 gram per kubieke millimeter.
-Dan is de mier dus 3 kubieke millimeter
-
-We gaan nu van de mier een kubus maken, met als inhoud 3 kubieke millimeter.
-We weten dat:
-
-```
-inhoud = lengte * breedte * hoogte
-```
-
-Bij een kubus is de lengte gelijk aan de breedte en aan de hoogte.
-
-```
-3 mm3 = lengte * breedte * hoogte
-```
-
-Met wat proberen kom je erop uit dat 1.44 mm * 1.44 mm * 1.44 mm ongeveer 3.0 mm3 is.
-
-We nemen aan dat de mier dus 1.44 mm bij 1.44 mm bij 1.44 millimeter is.
 
 Nu doen we net alsof de mier alleen maar uit spieren bestaat. 
 
