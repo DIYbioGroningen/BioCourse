@@ -224,47 +224,114 @@ Dus:
 
 Hoe sterk een spier is hangt af van hoeveel de spier kan tillen per oppervlakte.
 
-Stel
+We gaan dit eerst berekenen voor een geel kubusdier:
 
+![Geel kubusdier](1x1x1_geel.png)
 
+Kan tillen in totaal|Heeft spieroppervlak|Tilt dus
+---|---|---
+1 gram|1 vierkante centimeter|1 gram per vierkante centimeter
+2 gram|1 vierkante centimeter|`____` gram per vierkante centimeter
+3 gram|1 vierkante centimeter|`____` gram per vierkante centimeter
+4 gram|1 vierkante centimeter|`____` gram per vierkante centimeter
+5 gram|1 vierkante centimeter|`____` gram per vierkante centimeter
+6 gram|1 vierkante centimeter|`____` gram per vierkante centimeter
+7 gram|1 vierkante centimeter|`____` gram per vierkante centimeter
+8 gram|1 vierkante centimeter|`____` gram per vierkante centimeter
 
-Nu doen we net alsof de mier alleen maar uit spieren bestaat. 
+Nu voor een cyaan kubusdier:
 
-De kracht van een spier wordt bepaalt door de dikte (de oppervlakte van de doorsnede) en niet door de lengte.
+![Cyaan kubusdier](2x2x2_cyaan.png)
 
-De spier heeft een dikte van 1.44 mm bij 1.44 is 2.08 mm2.
+Kan tillen in totaal|Heeft spieroppervlak|Tilt dus
+---|---|---
+1 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
+2 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
+3 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
+4 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
+5 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
+6 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
+7 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
+8 gram|`____` vierkante centimeter|`____` gram per vierkante centimeter
 
-Een mier tilt 1883 mg met een spierdikte van 2.08 mm2.
+Dus:
 
-Een mierenspier kan dus 1683 mg per 2.08 mm2 tillen, dit is 809 mg per mm2.
+ * :white_check_mark: Een kubusmier heeft een inhoud van `____` kubieke millimeter
+ * :white_check_mark: Een kubusmier heeft een gewicht van `____` milligram
+ * :white_check_mark: Een kubusmier heeft een grootte van `____` millimeter bij  `____` millimeter bij  `____` millimeter
+ * :white_check_mark: Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
+ * :white_check_mark: Een kubusmierspier kan `____` milligram tillen per vierkante millimeter
+ * :white_check_mark: Een kubusmier kan in totaal `____` milligram tillen
+ * :white_check_mark: Een kubusmier kan `____` milligram meedragen
+ * :white_check_mark: Een kubusmier tilt `____` zijn eigen gewicht
 
 ## Hoe sterk is een mier als we deze zo groot maken als een mens?
 
 Een gemiddelde vrouw weegt 82 kilo.
+Dit is 82 kubieke decimeter
+Nu gaan we een menskubusspier maken:
 
-We nemen aan dat een mens dezelfde dichtheid heeft als water, dus 1 kilo per kubieke decimeter.
-Dan is de mens dus 83 kubieke decimeter.
+Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
+---|---
+1 decimeter|1 kubieke decimeter
+2 decimeter|`____` kubieke decimeter
+3 decimeter|`____` kubieke decimeter
+4 decimeter|`____` kubieke decimeter
+5 decimeter|`____` kubieke decimeter
+6 decimeter|`____` kubieke decimeter
 
-We gaan nu van de mens een kubus maken, met als inhoud 33 kubieke decimeter.
-We weten dat:
+Een menskubusspier heeft een inhoud van 82 kubieke decimeter.
+Dit moet een kubus zijn met een grootte tussen `   ` decimeter en `    ` decimeter.
+Nu gaan we preciezer rekenen tussen die twee getallen:
 
-```
-inhoud = lengte * breedte * hoogte
-```
+Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
+---|---
+` `,0 decimeter|`__,____` kubieke decimeter
+` `,1 decimeter|`__,____` kubieke decimeter
+` `,2 decimeter|`__,____` kubieke decimeter
+` `,3 decimeter|`__,____` kubieke decimeter
+` `,4 decimeter|`__,____` kubieke decimeter
+` `,5 decimeter|`__,____` kubieke decimeter
+` `,6 decimeter|`__,____` kubieke decimeter
+` `,7 decimeter|`__,____` kubieke decimeter
+` `,8 decimeter|`__,____` kubieke decimeter
+` `,9 decimeter|`__,____` kubieke decimeter
+` `,0 decimeter|`__,____` kubieke decimeter
 
-Bij een kubus is de lengte gelijk aan de breedte en aan de hoogte.
+Tussen welke twee groottes zit de grootte van een menskubusspier in?
 
-```
-83 dm3 = lengte * breedte * hoogte
-```
+Nu gaan we weer preciezer rekenen:
 
-Met wat proberen kom je erop uit dat 4.36 dm * 4.36 dm  * 4.36 dm  ongeveer 83 dm3 is.
+Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
+---|---
+` `,` `0 decimeter|`__,______` kubieke decimeter
+` `,` `1 decimeter|`__,______` kubieke decimeter
+` `,` `2 decimeter|`__,______` kubieke decimeter
+` `,` `3 decimeter|`__,______` kubieke decimeter
+` `,` `4 decimeter|`__,______` kubieke decimeter
+` `,` `5 decimeter|`__,______` kubieke decimeter
+` `,` `6 decimeter|`__,______` kubieke decimeter
+` `,` `7 decimeter|`__,______` kubieke decimeter
+` `,` `8 decimeter|`__,______` kubieke decimeter
+` `,` `9 decimeter|`__,______` kubieke decimeter
+` `,` `0 decimeter|`__,______` kubieke decimeter
 
-We nemen aan dat de mens dus 4.36 dm bij 4.36 dm bij 4.36 dm is.
+Dus:
+ * :white_check_mark: Een kubusmens heeft een inhoud van `____` kubieke decimeter
+ * :white_check_mark: Een kubusmens heeft een gewicht van `____` kilo
+ * :white_check_mark: Een kubusmens heeft een grootte van `____` decimeter bij  `____` decimeter bij  `____` decimeter
+ * :white_check_mark: Een kubusmens heeft een spieropperlak van  `____` decimeter bij  `____` decimeter, dus `____` vierkante decimeter
+ * Een kubusmensspier kan `____` kilo tillen per vierkante decimeter
+ * Een kubusmens kan in totaal `____` kilo tillen
+ * Een kubusmens kan `____` kilo meedragen
+ * Een kubusmens tilt `____` zijn eigen gewicht
 
-Nu doen we net alsof de mens alleen maar uit mierenspieren bestaat. 
+## Omrekenen
 
-De kracht van een spier wordt bepaalt door de dikte (de oppervlakte van de doorsnede) en niet door de lengte.
+Een mierenspier heeft een kracht van `____` milligram per vierkante millimeter.
+Een mensenspie
+
+
 
 De spier heeft een dikte van 4.36 dm bij 4.36 dm is 19.01 dm2.
 Dit is 1901 cm2. Dit is 190100 mm2.
