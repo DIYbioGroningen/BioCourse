@@ -48,7 +48,7 @@ Dit dier kan 3 keer zijn eigen gewicht tillen!
 
 Dus:
 
- * Kubusdier 1 heeft een inhoud van `  ` kubieke centimeter
+ * Kubusdier 1 heeft een inhoud van `____` kubieke centimeter
  * Kubusdier 1 heeft een gewicht van `  ` gram
  * Kubusdier 1 heeft een grootte van `    ` centimeter bij  `    ` centimeter bij  `    ` centimeter
  * Kubusdier 1 heeft een spieropperlak van  `    ` centimeter bij  `    ` centimeter, dus `    ` vierkante centimeter
