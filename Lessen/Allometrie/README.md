@@ -16,6 +16,74 @@ Grootte bepaalt onder andere:
  * of het organisme kan vliegen
  * of het organisme kan lopen
 
+## Waarom je slapper wordt als je groter bent
+
+Als je groter wordt, dan doe je dat in drie richtingen: je wordt breder, langer en dieper.
+Je gewicht neemt in alle drie de richtingen toe.
+Je spierkracht doet dat niet: alleen de spierdikte (en niet de lengte) bepaalt de kracht van een spier.
+
+![Glad spierweefsel](Smooth_muscle_tissue.jpg)
+
+![Spier](KubusSpier.png)
+
+Stel je voor, met een machine wordt jij 2x zo lang gemaakt.
+Dan ben je niet alleen 2x zo lang, maar ook 2x zo breed en 2x zo diep.
+Je weegt dus 2x2x2=8 keer zo veel!
+Je spieren worden maar 2x2=4 keer zo sterk.
+Je bent dus 'slapper' geworden!
+
+Dit gaan we nu berekenen met drie kubusdieren:
+
+![Kubusdier 1](1x1x1_rood.png)
+![Kubusdier 2](2x2x2_groen.png)
+![Kubusdier 3](3x3x3_blauw.png)
+
+Ons eerste kubusdier is rood. 
+Het dier is een kubus van 1x1x1 cm en weegt 1 gram.
+Dit dier kan 3 keer zijn eigen gewicht tillen!
+
+![Kubusdier 1](1x1x1_rood.png)
+
+ * Wat is de oppervlakte van een vlak van de kubus?
+ * Hoeveel tilt dit dier? En nu inclusief het gewicht van het dier zelf?
+ * Hoeveel kan een vierkante centimeter spier dus tillen?
+
+Nu vergroten we dit dier twee keer.
+
+![Kubusdier 2](2x2x2_groen.png)
+
+ * Hoe groot (lang, breed, diep) is het dier nu?
+ * Hoe zwaar is het dier nu?
+ * Hoeveel spieroppervlak heeft het dier nu?
+ * Hoeveel kracht heeft het dier? 
+ * Hoeveel keer z'n eigen gewicht tilt dit dier nu?
+
+Je ziet dat het dier minder vaak zijn gewicht kan tillen!
+
+Dit is de reden waarom landdieren niet te groot kunnen worden: 
+ze kunnen hun eigen gewicht dan niet meer dragen!
+De dinosauriers zijn de grootste landdieren ooit geweest
+en er zullen waarschijnlijk nooit grotere landdieren ontstaan:
+
+![Grote dino's](Largestdinosaursbysuborder_scale.png)
+
+Een van de grootste is de Argentinosaurus, die 35 meter lang was:
+
+![Argentinosaurus was 35 meter](Argentinosaurus_BW.jpg)
+
+Terug naar ons kubusdier.
+
+Ons kubusdier was nu 2x2x2 centimeter. 
+Nu vergroten we dit dier nog eens twee keer:
+
+![Kubusdier 3](4x4x4_blauw.gif)
+
+ * Hoe groot (lang, breed, diep) is het dier nu?
+ * Hoe zwaar is het dier nu?
+ * Hoeveel spieroppervlak heeft het dier nu?
+ * Hoeveel kracht heeft het dier? 
+ * Hoeveel keer z'n eigen gewicht tilt dit dier nu?
+
 ## Eigenschappen van een mier
 
 ![Bladsnijder mieren](LeafcutterAnts.png)
@@ -25,6 +93,15 @@ Een mierenwerkster ...
  * weegt gemiddeld 3 milligram
  * is gemiddeld 3 mm lang
  * kan 50x haar gewicht dragen 
+
+## Berekening
+
+ * Hoeveel kan een mier tillen?
+ * Hoeveel spier is een mier?
+ * Hoe sterk is een spier?
+ * Hoeveel spier is een mens?
+ * Hoe sterk is deze spier?
+
 
 ## Hoeveel kan een mier tillen?
 
@@ -52,8 +129,51 @@ Hints
 
  * Hiervoor heb je plus nodig
 
-## Een mier als spier
+## Hoeveel spier is een mier?
 
+We gaan net doen alsof de mier een spier is.
+De vorm van die spier is een kubus.
+Een mier weegt 3 milligram.
+3 milligram is 3 kubieke millimeter.
+Hoe groot is een kubus van 3 kubieke millimeter?
+
+Maak de tabel af. Gebruik een rekenmachientje.
+
+Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
+---|---
+1 mm|
+2 mm|
+3 mm|
+4 mm|
+5 mm|
+
+Een mierspier heeft een inhoud van 3 kubieke millimeter.
+Dit moet een kubus zijn met een grootte tussen `   ` mm en `    ` mm.
+Nu gaan we preciezer rekenen tussen die twee getallen:
+
+Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
+---|---
+` `,0 mm|
+` `,1 mm|
+` `,2 mm|
+` `,3 mm|
+` `,4 mm|
+` `,5 mm|
+` `,6 mm|
+` `,7 mm|
+` `,8 mm|
+` `,9 mm|
+` `,0 mm|
+
+
+
+
+
+
+## Hoe sterk is een spier?
+
+ * Hoeveel spier is een mens?
+ * Hoe sterk is deze spier?
 
 
 
