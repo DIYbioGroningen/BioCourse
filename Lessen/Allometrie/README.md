@@ -35,6 +35,7 @@ Dit gaan we nu berekenen met drie kubusdieren:
 ![Kubusdier 1](1x1x1_rood.png)
 ![Kubusdier 2](2x2x2_groen.png)
 ![Kubusdier 3](4x4x4_blauw.png)
+![Kubusdier 3](4x4x4_blauw2.png)
 
 Ons eerste kubusdier is rood. 
 Het dier is een kubus van 1x1x1 cm en weegt 1 gram.
@@ -211,12 +212,22 @@ Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ` `,` `0 mm|`__,______` kubieke millimeter
 
 Dus:
- * De kubusmier heeft een inhoud van `  ` kubieke millimeter
- * De kubusmier heeft een gewicht van `  ` milligram.
- * Onze kubusmier heeft een grootte van `    ` millimeter bij  `    ` millimeter bij  `    ` millimeter.
- * Onze kubusmier heeft een spieropperlak van  `    ` millimeter bij  `    ` millimeter, dus `    ` vierkante millimeter.
+ * :white_check_mark: Een kubusmier heeft een inhoud van `____` kubieke millimeter
+ * :white_check_mark: Een kubusmier heeft een gewicht van `____` milligram
+ * :white_check_mark: Een kubusmier heeft een grootte van `____` millimeter bij  `____` millimeter bij  `____` millimeter
+ * :white_check_mark: Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
+ * Een kubusmierspier kan `____` milligram tillen per vierkante millimeter
+ * :white_check_mark: Een kubusmier kan in totaal `____` milligram tillen
+ * :white_check_mark: Een kubusmier kan `____` milligram meedragen
+ * :white_check_mark: Een kubusmier tilt `____` zijn eigen gewicht
 
-## Hoe sterk is een spier?
+## Hoe sterk is een kubusmierspier?
+
+Hoe sterk een spier is hangt af van hoeveel de spier kan tillen per oppervlakte.
+
+Stel
+
+
 
 Nu doen we net alsof de mier alleen maar uit spieren bestaat. 
 
