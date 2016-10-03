@@ -430,7 +430,8 @@ Dus:
 
 Dus als een vrouw `____` kilo tilt, heeft ze even sterke spieren als een mier.
 
-Het wereldrecord gewichtheffen voor vrouwen is 155 kilo van [Tatiana Kashirina](https://www.youtube.com/watch?v=2pfLY_a5s_U)).
+Het wereldrecord gewichtheffen voor vrouwen is 155 kilo (in een keer) of 193 kilo (met tussenstop) 
+van [Tatiana Kashirina](https://www.youtube.com/watch?v=2pfLY_a5s_U). Zij weegt ongeveer 82 kilo.
 
 Vind jij dat een mier echt veel sterker is?
 
