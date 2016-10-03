@@ -329,29 +329,114 @@ Dus:
 ## Omrekenen
 
 Een mierenspier heeft een kracht van `____` milligram per vierkante millimeter.
-Een mensenspie
+Een mensenspier is heeft een oppervlakte van `____` vierkante decimeter.
 
+Een mensenspier is erg veel groter!
+We zullen moeten omrekenen van milligram naar kilograms en vierkante millimeter naar vierkante decimeter!
 
+Dit kan prima.
+De trappen van vergelijking zijn hiervoor. 
+Hier is een voorbeeld van lengte:
 
-De spier heeft een dikte van 4.36 dm bij 4.36 dm is 19.01 dm2.
-Dit is 1901 cm2. Dit is 190100 mm2.
+Lengte|is ook
+---|---
+10 millimeter|1 centimeter
+10 centimeter|1 decimeter
+10 decimeter|1 meter
+10 meter|1 decameter
+10 decameter|1 hectameter
+10 hectameter|1 kilometer
 
-Een mierenspier tilr 809 mg per mm2.
+Maak deze tabel af:
 
-Een mens zou dan 190100 mm2 * 809 mg/mm2 = 153787664 mg moeten kunnen tillen.
+Lengte|is ook
+---|---
+100 millimeter|`____` centimeter
+1000 centimeter|`____` decimeter
+20 decimeter|`____` meter
+15 meter|`____` decameter
+5 decameter|`____` hectameter
+1 hectameter|`____` kilometer
+1000 millimeter|`____` decimeter
+1000 millimeter|`____` meter
+1000 meter|`____` kilometer
 
-153787664 mg = 153787.664 gram = 153.787664 kilogram.
+Met gewicht gaat dit precies hetzelfde:
 
-De vrouw tilt al 82 kilo lichaamsgewicht.
+Gewicht|is ook
+---|---
+10 milligram|1 centigram
+10 centigram|1 decigram
+10 decigram|1 gram
+10 gram|1 decagram
+10 decagram|1 hectagram
+10 hectagram|1 kilogram
 
-154 - 82 = 72 kg
+Vul deze in:
 
-Dus als een vrouw 72 kilo tilt, is ze even hard aan het werk als een mier.
+Gewicht|is ook
+---|---
+1000 milligram|`____` gram
+1000 gram|`____` kilogram
+
+Bij oppervlaktes ('vierkante centimeter') moet je niet met tien, maar met honderd werken.
+
+![Tien bij tien](10x10.jpg)
+
+Oppervlakte|is ook
+---|---
+100 vierkante millimeter|1 vierkante centimeter
+100 vierkante centimeter|1 vierkante decimeter
+100 vierkante decimeter|1 vierkante meter
+100 vierkante meter|1 vierkante decameter
+100 vierkante decameter|1 vierkante hectameter
+100 vierkante hectameter|1 vierkante kilometer
+
+Maak deze tabel af:
+
+Oppervlakte|is ook
+---|---
+100 vierkante millimeter|`____` vierkante centimeter
+1000 vierkante centimeter|`____` vierkante decimeter
+20 vierkante decimeter|`____` vierkante meter
+15 vierkante meter|`____` vierkante decameter
+5 vierkante decameter|`____` vierkante hectameter
+1 vierkante hectameter|`____` vierkante kilometer
+1000 vierkante millimeter|`____` vierkante decimeter
+1000 vierkante millimeter|`____` vierkante meter
+1000 vierkante meter|`____` vierkante kilometer
+
+Nu hebben we genoeg geoefend om spierkracht te berekenen!
+
+Een mierenspier heeft een kracht van `____` milligram per vierkante millimeter.
+Kracht|is ook
+`____` milligram per vierkante millimeter|`____` gram per vierkante millimeter
+`____` gram per vierkante centimeter|`____` gram per vierkante decimeter
+`____` gram per vierkante decimeter|`____` kilo per vierkante decimeter
+
+Een mensenspier is heeft een oppervlakte van `____` vierkante decimeter.
+Per vierkante decimeter kan het `____` kilo tillen.
+De mensenspier kan dus in totaal `____` kilo tillen.
+
+Dus:
+ * :white_check_mark: Een kubusmens heeft een inhoud van `____` kubieke decimeter
+ * :white_check_mark: Een kubusmens heeft een gewicht van `____` kilo
+ * :white_check_mark: Een kubusmens heeft een grootte van `____` decimeter bij  `____` decimeter bij  `____` decimeter
+ * :white_check_mark: Een kubusmens heeft een spieropperlak van  `____` decimeter bij  `____` decimeter, dus `____` vierkante decimeter
+ * :white_check_mark: Een kubusmensspier kan `____` kilo tillen per vierkante decimeter
+ * :white_check_mark: Een kubusmens kan in totaal `____` kilo tillen
+ * :white_check_mark: Een kubusmens kan `____` kilo meedragen
+ * :white_check_mark: Een kubusmens tilt `____` zijn eigen gewicht
+
+Dus als een vrouw `____` kilo tilt, heeft ze even sterke spieren als een mier.
 
 Het wereldrecord gewichtheffen voor vrouwen is 155 kilo van [Tatiana Kashirina](https://www.youtube.com/watch?v=2pfLY_a5s_U)).
-Tatiana zou misschien goed rond kunnen lopen met 72 kilo.
 
-Je zou dus kunnen zeggen dat een mier ongeveer net zo sterk is als een getrainde gewichtheffer!
+Vind jij dat een mier echt veel sterker is?
+
+```
+
+```
 
 
 
