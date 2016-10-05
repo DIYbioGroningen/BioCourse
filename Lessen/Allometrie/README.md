@@ -5,6 +5,7 @@ Organismen hebben verschillende groottes.
 In deze les leren we:
 
  * hoe knap het is dat een mier 50x haar eigen gewicht kan tillen
+ * waarom er geen grotere dieren dan dinosauriers zullen ontstaan
 
 ## Waarom
 
@@ -15,6 +16,15 @@ Grootte bepaalt onder andere:
  * de hartslag (hoe vaak het hart klopt)
  * of het organisme kan vliegen
  * of het organisme kan lopen
+
+De dinosauriers zijn de grootste landdieren ooit geweest
+en er zullen waarschijnlijk nooit grotere landdieren ontstaan:
+
+![Grote dino's](Largestdinosaursbysuborder_scale.png)
+
+Een van de grootste is de Argentinosaurus, die 35 meter lang was:
+
+![Argentinosaurus was 35 meter](Argentinosaurus_BW.jpg)
 
 ## Waarom je slapper wordt als je groter bent
 
@@ -42,9 +52,10 @@ Dit dier kan 3 keer zijn eigen gewicht tillen!
 
 ![Kubusdier 1](1x1x1_rood.png)
 
- * Wat is de oppervlakte van een vlak van de kubus?
- * Hoeveel tilt dit dier? En nu inclusief het gewicht van het dier zelf?
- * Hoeveel kan een vierkante centimeter spier dus tillen?
+ * Wat is de oppervlakte van een vlak van de kubus? `____` vierkant centimeter
+ * Hoeveel gram kan dit dier mee dragen? `____` gram
+ * Hoeveel tilt dit dier, inclusief het gewicht van het dier zelf? `____` gram
+ * Hoeveel kan een vierkante centimeter spier dus tillen? `____` gram per vierkante centimeter
 
 Dus:
 
@@ -53,18 +64,20 @@ Dus:
  * Kubusdier 1 heeft een grootte van `____` centimeter bij  `____` centimeter bij  `____` centimeter
  * Kubusdier 1 heeft een spieropperlak van  `____` centimeter bij  `____` centimeter, dus `____` vierkante centimeter
  * Een spier kan `____` gram tillen per vierkante centimeter
- * Kubusdier 1 kan in totaal `____` gram tillen
- * Kubusdier 1 kan `____` gram meedragen
- * Kubusdier 1 tilt `____` zijn eigen gewicht
+ * Kubusdier 1 kan `____` gram (met zichzelf) tillen
+ * Kubusdier 1 kan `____` gram extra (zonder zichzelf) meedragen
+ * Kubusdier 1 tilt `____` keer zijn eigen gewicht
 
 Nu vergroten we dit dier twee keer.
 
 ![Kubusdier 2](2x2x2_groen.png)
 
- * Hoe groot (lang, breed, diep) is het dier nu?
- * Hoe zwaar is het dier nu?
- * Hoeveel spieroppervlak heeft het dier nu?
- * Hoeveel kracht heeft het dier? 
+ * Hoe groot (lang, breed, diep) is het dier nu? `____` centimeter
+ * Hoe zwaar is het dier nu? `____` gram
+ * Hoeveel spieroppervlak heeft het dier nu? `____` vierkante centimeter
+ * Hoe sterk is een kubusdierspier ook alweer? `____` gram per vierkante centimeter 
+ * Hoeveel gram kan deze spier tillen? `____` gram
+ * Hoeveel gram dit dier extra tillen? `____` gram
  * Hoeveel keer z'n eigen gewicht tilt dit dier nu?
 
 Dus:
@@ -80,28 +93,17 @@ Dus:
 
 Je ziet dat het dier minder vaak zijn gewicht kan tillen!
 
-Dit is de reden waarom landdieren niet te groot kunnen worden: 
-ze kunnen hun eigen gewicht dan niet meer dragen!
-De dinosauriers zijn de grootste landdieren ooit geweest
-en er zullen waarschijnlijk nooit grotere landdieren ontstaan:
-
-![Grote dino's](Largestdinosaursbysuborder_scale.png)
-
-Een van de grootste is de Argentinosaurus, die 35 meter lang was:
-
-![Argentinosaurus was 35 meter](Argentinosaurus_BW.jpg)
-
-Terug naar ons kubusdier.
-
 Ons kubusdier was nu 2x2x2 centimeter. 
 Nu vergroten we dit dier nog eens twee keer:
 
 ![Kubusdier 3](4x4x4_blauw.png)
 
- * Hoe groot (lang, breed, diep) is het dier nu?
- * Hoe zwaar is het dier nu?
- * Hoeveel spieroppervlak heeft het dier nu?
- * Hoeveel kracht heeft het dier? 
+ * Hoe groot (lang, breed, diep) is het dier nu? `____` centimeter
+ * Hoe zwaar is het dier nu? `____` gram
+ * Hoeveel spieroppervlak heeft het dier nu? `____` vierkante centimeter
+ * Hoe sterk is een kubusdierspier ook alweer? `____` gram per vierkante centimeter 
+ * Hoeveel gram kan deze spier tillen? `____` gram
+ * Hoeveel gram dit dier extra tillen? `____` gram
  * Hoeveel keer z'n eigen gewicht tilt dit dier nu?
 
 Dus:
@@ -114,6 +116,15 @@ Dus:
  * Kubusdier 3 kan in totaal `____` gram tillen
  * Kubusdier 3 kan `____` gram meedragen
  * Kubusdier 3 tilt `____` zijn eigen gewicht
+
+En nu:
+
+ * Wat als we het kubusdier weer vergroten?
+
+Dit is de reden waarom landdieren niet te groot kunnen worden: 
+ze kunnen hun eigen gewicht dan niet meer dragen!
+
+Terug naar ons kubusdier.
 
 ## Eigenschappen van een mier
 
@@ -130,14 +141,16 @@ Een mierenwerkster ...
 We maken van de mier ook een kubusdier.
 We gaan deze getallen berekenen:
 
+Vul in wat je al weet"
+
  * Een kubusmier heeft een inhoud van `____` kubieke millimeter
  * Een kubusmier heeft een gewicht van `____` milligram
- * Een kubusmier heeft een grootte van `____` milliimeter bij  `____` millimeter bij  `____` millimeter
+ * Een kubusmier heeft een grootte van `____` millimeter bij  `____` millimeter bij  `____` millimeter
  * Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
  * Een kubusmierspier kan `____` milligram tillen per vierkante millimeter
  * Een kubusmier kan in totaal `____` milligram tillen
  * Een kubusmier kan `____` milligram meedragen
- * Een kubusmier tilt `____` zijn eigen gewicht
+ * Een kubusmier tilt `____` keer zijn eigen gewicht
 
 ## Hoeveel kan een mier tillen?
 
@@ -180,17 +193,17 @@ Nu gaan we preciezer rekenen tussen die twee getallen:
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-` `,0 millimeter|`__,____` kubieke millimeter
-` `,1 millimeter|`__,____` kubieke millimeter
-` `,2 millimeter|`__,____` kubieke millimeter
-` `,3 millimeter|`__,____` kubieke millimeter
-` `,4 millimeter|`__,____` kubieke millimeter
-` `,5 millimeter|`__,____` kubieke millimeter
-` `,6 millimeter|`__,____` kubieke millimeter
-` `,7 millimeter|`__,____` kubieke millimeter
-` `,8 millimeter|`__,____` kubieke millimeter
-` `,9 millimeter|`__,____` kubieke millimeter
-` `,0 millimeter|`__,____` kubieke millimeter
+`__`,0 millimeter|`__,____` kubieke millimeter
+`__`,1 millimeter|`__,____` kubieke millimeter
+`__`,2 millimeter|`__,____` kubieke millimeter
+`__`,3 millimeter|`__,____` kubieke millimeter
+`__`,4 millimeter|`__,____` kubieke millimeter
+`__`,5 millimeter|`__,____` kubieke millimeter
+`__`,6 millimeter|`__,____` kubieke millimeter
+`__`,7 millimeter|`__,____` kubieke millimeter
+`__`,8 millimeter|`__,____` kubieke millimeter
+`__`,9 millimeter|`__,____` kubieke millimeter
+`__`,0 millimeter|`__,____` kubieke millimeter
 
 Tussen welke twee groottes zit de grootte van een kubusmier in?
 
@@ -198,27 +211,28 @@ Nu gaan we weer preciezer rekenen:
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-` `,` `0 mm|`__,______` kubieke millimeter
-` `,` `1 mm|`__,______` kubieke millimeter
-` `,` `2 mm|`__,______` kubieke millimeter
-` `,` `3 mm|`__,______` kubieke millimeter
-` `,` `4 mm|`__,______` kubieke millimeter
-` `,` `5 mm|`__,______` kubieke millimeter
-` `,` `6 mm|`__,______` kubieke millimeter
-` `,` `7 mm|`__,______` kubieke millimeter
-` `,` `8 mm|`__,______` kubieke millimeter
-` `,` `9 mm|`__,______` kubieke millimeter
-` `,` `0 mm|`__,______` kubieke millimeter
+`__`,`__`0 mm|`__,______` kubieke millimeter
+`__`,`__`1 mm|`__,______` kubieke millimeter
+`__`,`__`2 mm|`__,______` kubieke millimeter
+`__`,`__`3 mm|`__,______` kubieke millimeter
+`__`,`__`4 mm|`__,______` kubieke millimeter
+`__`,`__`5 mm|`__,______` kubieke millimeter
+`__`,`__`6 mm|`__,______` kubieke millimeter
+`__`,`__`7 mm|`__,______` kubieke millimeter
+`__`,`__`8 mm|`__,______` kubieke millimeter
+`__`,`__`9 mm|`__,______` kubieke millimeter
+`__`,`__`0 mm|`__,______` kubieke millimeter
 
 Dus:
- * :white_check_mark: Een kubusmier heeft een inhoud van `____` kubieke millimeter
- * :white_check_mark: Een kubusmier heeft een gewicht van `____` milligram
- * :white_check_mark: Een kubusmier heeft een grootte van `____` millimeter bij  `____` millimeter bij  `____` millimeter
- * :white_check_mark: Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
+
+ * Een kubusmier heeft een inhoud van `____` kubieke millimeter
+ * Een kubusmier heeft een gewicht van `____` milligram
+ * Een kubusmier heeft een grootte van `____` millimeter bij  `____` millimeter bij  `____` millimeter
+ * Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
  * Een kubusmierspier kan `____` milligram tillen per vierkante millimeter
- * :white_check_mark: Een kubusmier kan in totaal `____` milligram tillen
- * :white_check_mark: Een kubusmier kan `____` milligram meedragen
- * :white_check_mark: Een kubusmier tilt `____` zijn eigen gewicht
+ * Een kubusmier kan in totaal `____` milligram tillen
+ * Een kubusmier kan `____` milligram meedragen
+ * Een kubusmier tilt `____` zijn eigen gewicht
 
 ## Hoe sterk is een kubusmierspier?
 
@@ -256,14 +270,14 @@ Kan tillen in totaal|Heeft spieroppervlak|Tilt dus
 
 Dus:
 
- * :white_check_mark: Een kubusmier heeft een inhoud van `____` kubieke millimeter
- * :white_check_mark: Een kubusmier heeft een gewicht van `____` milligram
- * :white_check_mark: Een kubusmier heeft een grootte van `____` millimeter bij  `____` millimeter bij  `____` millimeter
- * :white_check_mark: Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
- * :white_check_mark: Een kubusmierspier kan `____` milligram tillen per vierkante millimeter
- * :white_check_mark: Een kubusmier kan in totaal `____` milligram tillen
- * :white_check_mark: Een kubusmier kan `____` milligram meedragen
- * :white_check_mark: Een kubusmier tilt `____` zijn eigen gewicht
+ * Een kubusmier heeft een inhoud van `____` kubieke millimeter
+ * Een kubusmier heeft een gewicht van `____` milligram
+ * Een kubusmier heeft een grootte van `____` millimeter bij  `____` millimeter bij  `____` millimeter
+ * Een kubusmier heeft een spieropperlak van  `____` millimeter bij  `____` millimeter, dus `____` vierkante millimeter
+ * Een kubusmierspier kan `____` milligram tillen per vierkante millimeter
+ * Een kubusmier kan in totaal `____` milligram tillen
+ * Een kubusmier kan `____` milligram meedragen
+ * Een kubusmier tilt `____` zijn eigen gewicht
 
 ## Hoe sterk is een mier als we deze zo groot maken als een mens?
 
@@ -281,22 +295,22 @@ Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 6 decimeter|`____` kubieke decimeter
 
 Een menskubusspier heeft een inhoud van 82 kubieke decimeter.
-Dit moet een kubus zijn met een grootte tussen `   ` decimeter en `    ` decimeter.
+Dit moet een kubus zijn met een grootte tussen `____` decimeter en `____` decimeter.
 Nu gaan we preciezer rekenen tussen die twee getallen:
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-` `,0 decimeter|`__,____` kubieke decimeter
-` `,1 decimeter|`__,____` kubieke decimeter
-` `,2 decimeter|`__,____` kubieke decimeter
-` `,3 decimeter|`__,____` kubieke decimeter
-` `,4 decimeter|`__,____` kubieke decimeter
-` `,5 decimeter|`__,____` kubieke decimeter
-` `,6 decimeter|`__,____` kubieke decimeter
-` `,7 decimeter|`__,____` kubieke decimeter
-` `,8 decimeter|`__,____` kubieke decimeter
-` `,9 decimeter|`__,____` kubieke decimeter
-` `,0 decimeter|`__,____` kubieke decimeter
+`__`,0 decimeter|`__,____` kubieke decimeter
+`__`,1 decimeter|`__,____` kubieke decimeter
+`__`,2 decimeter|`__,____` kubieke decimeter
+`__`,3 decimeter|`__,____` kubieke decimeter
+`__`,4 decimeter|`__,____` kubieke decimeter
+`__`,5 decimeter|`__,____` kubieke decimeter
+`__`,6 decimeter|`__,____` kubieke decimeter
+`__`,7 decimeter|`__,____` kubieke decimeter
+`__`,8 decimeter|`__,____` kubieke decimeter
+`__`,9 decimeter|`__,____` kubieke decimeter
+`__`,0 decimeter|`__,____` kubieke decimeter
 
 Tussen welke twee groottes zit de grootte van een menskubusspier in?
 
@@ -304,23 +318,24 @@ Nu gaan we weer preciezer rekenen:
 
 Grootte kubus (lengte, breedte en hoogte)|Inhoud van de kubus
 ---|---
-` `,` `0 decimeter|`__,______` kubieke decimeter
-` `,` `1 decimeter|`__,______` kubieke decimeter
-` `,` `2 decimeter|`__,______` kubieke decimeter
-` `,` `3 decimeter|`__,______` kubieke decimeter
-` `,` `4 decimeter|`__,______` kubieke decimeter
-` `,` `5 decimeter|`__,______` kubieke decimeter
-` `,` `6 decimeter|`__,______` kubieke decimeter
-` `,` `7 decimeter|`__,______` kubieke decimeter
-` `,` `8 decimeter|`__,______` kubieke decimeter
-` `,` `9 decimeter|`__,______` kubieke decimeter
-` `,` `0 decimeter|`__,______` kubieke decimeter
+`__`,`__`0 decimeter|`__,______` kubieke decimeter
+`__`,`__`1 decimeter|`__,______` kubieke decimeter
+`__`,`__`2 decimeter|`__,______` kubieke decimeter
+`__`,`__`3 decimeter|`__,______` kubieke decimeter
+`__`,`__`4 decimeter|`__,______` kubieke decimeter
+`__`,`__`5 decimeter|`__,______` kubieke decimeter
+`__`,`__`6 decimeter|`__,______` kubieke decimeter
+`__`,`__`7 decimeter|`__,______` kubieke decimeter
+`__`,`__`8 decimeter|`__,______` kubieke decimeter
+`__`,`__`9 decimeter|`__,______` kubieke decimeter
+`__`,`__`0 decimeter|`__,______` kubieke decimeter
 
 Dus:
- * :white_check_mark: Een kubusmens heeft een inhoud van `____` kubieke decimeter
- * :white_check_mark: Een kubusmens heeft een gewicht van `____` kilo
- * :white_check_mark: Een kubusmens heeft een grootte van `____` decimeter bij  `____` decimeter bij  `____` decimeter
- * :white_check_mark: Een kubusmens heeft een spieropperlak van  `____` decimeter bij  `____` decimeter, dus `____` vierkante decimeter
+
+ * Een kubusmens heeft een inhoud van `____` kubieke decimeter
+ * Een kubusmens heeft een gewicht van `____` kilo
+ * Een kubusmens heeft een grootte van `____` decimeter bij  `____` decimeter bij  `____` decimeter
+ * Een kubusmens heeft een spieropperlak van  `____` decimeter bij  `____` decimeter, dus `____` vierkante decimeter
  * Een kubusmensspier kan `____` kilo tillen per vierkante decimeter
  * Een kubusmens kan in totaal `____` kilo tillen
  * Een kubusmens kan `____` kilo meedragen
@@ -381,8 +396,6 @@ Gewicht|is ook
 
 Bij oppervlaktes ('vierkante centimeter') moet je niet met tien, maar met honderd werken.
 
-![Tien bij tien](10x10.jpg)
-
 Oppervlakte|is ook
 ---|---
 100 vierkante millimeter|1 vierkante centimeter
@@ -409,24 +422,28 @@ Oppervlakte|is ook
 Nu hebben we genoeg geoefend om spierkracht te berekenen!
 
 Een mierenspier heeft een kracht van `____` milligram per vierkante millimeter.
+
 Kracht|is ook
-`____` milligram per vierkante millimeter|`____` gram per vierkante millimeter
+---|---
+`____` mg per vierkante millimeter|`____` gram per vierkante millimeter
 `____` gram per vierkante centimeter|`____` gram per vierkante decimeter
 `____` gram per vierkante decimeter|`____` kilo per vierkante decimeter
+
 
 Een mensenspier is heeft een oppervlakte van `____` vierkante decimeter.
 Per vierkante decimeter kan het `____` kilo tillen.
 De mensenspier kan dus in totaal `____` kilo tillen.
 
 Dus:
- * :white_check_mark: Een kubusmens heeft een inhoud van `____` kubieke decimeter
- * :white_check_mark: Een kubusmens heeft een gewicht van `____` kilo
- * :white_check_mark: Een kubusmens heeft een grootte van `____` decimeter bij  `____` decimeter bij  `____` decimeter
- * :white_check_mark: Een kubusmens heeft een spieropperlak van  `____` decimeter bij  `____` decimeter, dus `____` vierkante decimeter
- * :white_check_mark: Een kubusmensspier kan `____` kilo tillen per vierkante decimeter
- * :white_check_mark: Een kubusmens kan in totaal `____` kilo tillen
- * :white_check_mark: Een kubusmens kan `____` kilo meedragen
- * :white_check_mark: Een kubusmens tilt `____` zijn eigen gewicht
+
+ * Een kubusmens heeft een inhoud van `____` kubieke decimeter
+ * Een kubusmens heeft een gewicht van `____` kilo
+ * Een kubusmens heeft een grootte van `____` decimeter bij  `____` decimeter bij  `____` decimeter
+ * Een kubusmens heeft een spieropperlak van  `____` decimeter bij  `____` decimeter, dus `____` vierkante decimeter
+ * Een kubusmensspier kan `____` kilo tillen per vierkante decimeter
+ * Een kubusmens kan in totaal `____` kilo tillen
+ * Een kubusmens kan `____` kilo meedragen
+ * Een kubusmens tilt `____` zijn eigen gewicht
 
 Dus als een vrouw `____` kilo tilt, heeft ze even sterke spieren als een mier.
 
