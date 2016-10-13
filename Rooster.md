@@ -8,10 +8,10 @@ Wanneer|Wie|Wat
 :white_check_mark: 14 sep|Jolien|Snijpracticum vis
 :white_check_mark: 21 sep|Kevin en Richel|Spongebob gedrag, mieren
 :white_check_mark: 28 sep|Bas|Enzymen
-5 okt|Peter en Richel|Microscopie, allometrie
-12 okt|Jolien|Schedels en skeletten
+:white_check_mark: 5 okt|Peter en Richel|Microscopie, allometrie
+:white_check_mark: 12 okt|Jolien|Schedels en skeletten
 19 okt|Kevin|Gedragsonderzoek aan muizen
-26 okt|Winand + Bas|DNA uit aardbeien
+26 okt|Peter/Richel + Bas, dan Richel + Bas|Microscopie, DNA (uit aardbeien)
 2 nov|Kevin|Leereffect meten op mensen (ons dus)
 9 nov|Jolien|telefoon loep maken en het veld ( of de sloot) in
 16 nov|Winand|Maak het microscopisch macroscopisch
