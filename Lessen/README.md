@@ -2,12 +2,16 @@
 
 Dit is een overzicht van onze lessen.
 
+ * [Allometrie](Allometrie/README.md)
+ * [DNA extractie uit erwten](DNA_extractie_erwten/README.md)
+ * [DNA extractie uit wangslijmcellen](DNA_extractie_wangslijmcellen/README.md)
+ * [Duiven en havikken](Duiven_en_havikken/README.md)
+ * [Kloneren](Kloneren/README.md)
  * [Meelwormen verzorgen](Meelwormen_verzorgen/README.md)
+ * [Mieren verzorgen](Mieren_verzorgen/README.md)
 
 ## Lessen die nog niet af zijn
 
- * [DNA extractie](Dna_extractie/README.md) (Richel)
- * [Kloneren](Kloneren/README.md) (Richel)
  * Snijpracticum hart (Richel)
  * Insecten vangen met zuigsnuit (Jolien)
  * Doe-het-zelf agar (Winand)
