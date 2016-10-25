@@ -3,6 +3,7 @@
 Dit is een overzicht van onze lessen.
 
  * [Allometrie](Allometrie/README.md)
+ * [DNA bouwen](DNA_bouwen/README.md)
  * [DNA extractie uit erwten](DNA_extractie_erwten/README.md)
  * [DNA extractie uit wangslijmcellen](DNA_extractie_wangslijmcellen/README.md)
  * [Duiven en havikken](Duiven_en_havikken/README.md)
