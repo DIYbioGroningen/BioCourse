@@ -10,9 +10,9 @@ Wanneer|Wie|Wat
 :white_check_mark: 28 sep|Bas|Enzymen
 :white_check_mark: 5 okt|Peter en Richel|Microscopie, allometrie
 :white_check_mark: 12 okt|Jolien|Schedels en skeletten
-19 okt|Peter, Kevin|Microscopie, gedragsonderzoek aan muizen
-26 okt|Richel + Bas|DNA
-2 nov|Kevin|Leereffect meten op mensen (ons dus)
+:white_check_mark: 19 okt|Peter, Amaia|Microscopie, 
+:white_check_mark:26 okt|Peter en Bas en Amaia , Richel en Bas|Microscopie, DNA
+2 nov|Kevin|Leereffect meten op mensen (ons dus) of gedragsonderzoek aan muizen
 9 nov|Jolien|telefoon loep maken en het veld ( of de sloot) in
 16 nov|Winand|Maak het microscopisch macroscopisch
 23 nov|Jolien|zuigsnuit maken en insecten vangen
