@@ -11,10 +11,10 @@ Wanneer|Wie|Wat
 :white_check_mark: 5 okt|Peter en Richel|Microscopie, allometrie
 :white_check_mark: 12 okt|Jolien|Schedels en skeletten
 :white_check_mark: 19 okt|Peter, Amaia|Microscopie, 
-:white_check_mark:26 okt|Peter en Bas en Amaia , Richel en Bas|Microscopie, DNA
-:white_check_mark:2 nov| |Geen les
-9 nov|Jolien, ?Kevin|telefoon loep maken en het veld (of de sloot) in, ?leereffect meten op mensen (ons dus) of gedragsonderzoek aan muizen
-16 nov|Winand|Maak het microscopisch macroscopisch
+:white_check_mark: 26 okt|Peter en Bas en Amaia , Richel en Bas|Microscopie, DNA
+:white_check_mark: 2 nov| |Geen les
+:white_check_mark: 9 nov| Jolien, ?Bas|Organellen
+:white_check_mark: 16 nov|Richel, Bas|Speltheorie, fotosynthese en verbranding
 23 nov|Jolien|zuigsnuit maken en insecten vangen
 30 nov|Kevin|T-shirt geur experiment
 7 dec|Richel + iedereen die kan|Dingen die we niet gedaan hebben, maar volgend jaar gaan doen
