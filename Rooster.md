@@ -15,8 +15,8 @@ Wanneer|Wie|Wat
 :white_check_mark: 2 nov| |Geen les
 :white_check_mark: 9 nov| Jolien, ?Bas|Organellen
 :white_check_mark: 16 nov|Richel, Bas|Speltheorie, fotosynthese en verbranding
-23 nov|Jolien|zuigsnuit maken en insecten vangen
-30 nov|Kevin|T-shirt geur experiment
+23 nov|Kevin|?T-shirt geur experiment
+30 nov|Jolien|?zuigsnuit maken en insecten vangen
 7 dec|Richel + iedereen die kan|Dingen die we niet gedaan hebben, maar volgend jaar gaan doen
 14 dec|Leerlingen|?Eindpresentatie, anders Richel
 21 dec|Iedereen|Kerst, geen les
