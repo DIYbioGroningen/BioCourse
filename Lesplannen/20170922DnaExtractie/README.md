@@ -10,6 +10,15 @@
 ## Lesdoelen
 
  * Zelfstandig een proef kunnen doen
+ * Snappen wat de stappen waren
+
+## Controlevragen
+
+ * Waarom gebruiken we aarbeien?
+ * Waarvoor is de mastermix?
+ * Waarvoor is de spiritus?
+ * Wat is neerslaan?
+ * Welke vorm heeft DNA?
 
 ## Voorbereiding
 
@@ -20,28 +29,33 @@ Op het bord:
 
 ## Lesplanning
 
+### Woordweb
 
-### Zinnen: doen
+Op bord in cirkel:
 
-Zoveel mogelijk losse cellen krijgen
+ * aardbei
+ * cel
+ * celwand
+ * DNA (vast)
+ * DNA (vloeibaar)
+ * eiwitten
+ * neerslagreactie
+ * spiritus
+ * zeepsop
+ * zout
 
-Losse cellen kapot maken
+### Zinnen
 
-Grove plantendelen verwijderen
-
-DNA van andere celinhoud scheiden
-
-DNA uit een oplossing laten neerslaan
-
-### Zinnen: handelingen
-
-Tot moes kneden
-
-Zeepsop en water toevoegen
-
-Met een zakdoek filteren
-
-Zout en water toevoegen
-
-Alcohol toevoegen
-
+ * Begin: Aardbei
+   * Tot moes kneden
+ * Zoveel mogelijk losse cellen
+   * Met een zakdoek filteren
+ * Grove plantendelen verwijderen
+   * Zeepsop en water toevoegen
+ * Losse cellen kapot maken
+   * Zout en water toevoegen
+ * DNA van andere celinhoud scheiden
+   * Spiritus toevoegen
+ * DNA uit een oplossing laten neerslaan
+   * DNA eruit halen
+ * Eind: DNA
