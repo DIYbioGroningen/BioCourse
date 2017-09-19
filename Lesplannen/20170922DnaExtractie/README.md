@@ -20,6 +20,9 @@ Op het bord:
 
 ## Lesplanning
 
+
+### Zinnen: doen
+
 Zoveel mogelijk losse cellen krijgen
 
 Losse cellen kapot maken
@@ -30,5 +33,15 @@ DNA van andere celinhoud scheiden
 
 DNA uit een oplossing laten neerslaan
 
+### Zinnen: handelingen
 
+Tot moes kneden
+
+Zeepsop en water toevoegen
+
+Met een zakdoek filteren
+
+Zout en water toevoegen
+
+Alcohol toevoegen
 
