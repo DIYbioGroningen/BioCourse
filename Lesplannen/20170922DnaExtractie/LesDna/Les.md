@@ -1,21 +1,9 @@
 # Lesplan
 
-# Context
-
- * Docent: Richel Bilderbeek
- * Eerste lesuur
- * Aantal leerlingen geschat op 4-8, max 10
-
 ## Lesdoel
 
  * Zelf een experiment doen
  * Een ondiep weten van wat alle stappen in het experiment doen
-
-## Controlevragen
-
- * Waarvoor gebruiken we zout?
- * Waarvoor gebruiken we afwasmiddel?
- * Waarvoor gebruiken we spiritus?
 
 ## Voorbereiding
 
