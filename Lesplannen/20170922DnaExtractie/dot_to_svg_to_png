@@ -1,5 +1,5 @@
 #!/bin/bash
-#dot -Tsvg woordweb.dot -o woordweb.svg
+dot -Tsvg woordweb.dot -o woordweb.svg
 #twopi -Tsvg woordweb.dot -o woordweb.svg
-circo -Tsvg woordweb.dot -o woordweb.svg
+#circo -Tsvg woordweb.dot -o woordweb.svg
 convert woordweb.svg woordweb.png
