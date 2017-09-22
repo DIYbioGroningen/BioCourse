@@ -1,5 +1,5 @@
 #!/bin/bash
-dot -Tsvg woordweb.dot -o woordweb.svg
-#twopi -Tsvg woordweb.dot -o woordweb.svg
-#circo -Tsvg woordweb.dot -o woordweb.svg
-convert woordweb.svg woordweb.png
+dot -Tsvg woordweb_woorden.dot -o woordweb_woorden.svg
+#twopi -Tsvg woordweb_woorden.dot -o woordweb_woorden.svg
+#circo -Tsvg woordweb_woorden.dot -o woordweb_woorden.svg
+convert woordweb_woorden.svg -rotate 90 woordweb_woorden.png
