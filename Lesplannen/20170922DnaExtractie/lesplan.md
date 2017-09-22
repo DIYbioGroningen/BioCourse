@@ -19,39 +19,39 @@
 
 ## Voorbereiding
 
- * 10x woordweb
  * 10x pen
+ * 10x handout (handout.pdf)
  * Benodigdheden experiment
- * 10x protocol + uitnodiging
 
 ## Klaarleggen
 
 Op tafel:
 
- * 10x woordweb
+ * 10x handouts
  * 10x pen
 
 Zichtbaar:
 
  * Benodigdheden experiment
 
+\pagebreak
+
 ## Lesplanning
 
- * 18:15: Les starten (5 min)
- * Lesdoel (2 min)
- * 18:15: Woordweb + verhaal (5 min)
- * 18:25: Spelen
- * 18:35: Protocol uitdelen
- * Experiment lezen (5 minuten)
- * Experiment doen (15 minuten)
- * 18:54: Werven voor week erop (1 min)
+ * 18:15: Les starten, lesdoel (5 min)
+ * 18:20: Woordweb woorden + verhaal (5 min)
+ * 18:25: Woordweb plaatjes + verhaal (5 min)
+ * 18:30: Protocol uitdelen
+ * Experiment lezen (4 minuten)
+ * Labjas aan
+ * Experiment doen (20 minuten)
+ * 18:54: Vingers: wie helpt er volgende week mee? (1 min)
  * 18:55: Opruimen (5 min)
 
 # Woordweb + verhaal
 
 Voorlezen, zeker niet voordoen:
 
-```
 We gaan uit een *aardbei* *DNA* halen.
 Een *aardbei* bestaat uit veel *cellen*.
 Cellen hebben onder andere een *celwand*, *DNA* en *eiwitten*.
@@ -72,7 +72,6 @@ Met ons *filter* scheiden we de *losse cellen* en *grote stukken*: de *grote stu
 het *water* met *losse cellen*, *DNA*, *eiwitten* en *celwanden* komt in het *bekertje*.
 We gieten hier *spiritus* op en het *DNA* wordt *zichtbaar DNA*
 Met een *roerstaafje* halen we het *zichtbare DNA* eruit.
-```
 
 ## Spelen
 
@@ -85,9 +84,3 @@ Het *zout* zorgt dat de *eiwitten* bij elkaar blijven.
 Met een *filter* scheiden we de *grote stukken* van de rest.
 Het *DNA* maken we zichtbaar met spiritus.
 Met een *roerstaafje* halen we het *zichtbare DNA* eruit
-
-## Experiment  
-
-
-
-
