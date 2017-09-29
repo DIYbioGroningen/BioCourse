@@ -1,0 +1,5 @@
+#!/bin/bash
+./create_woordwebben
+./create_protocol
+./create_workshop
+pdfunite woordwebben.pdf protocol.pdf workshop.pdf handout.pdf

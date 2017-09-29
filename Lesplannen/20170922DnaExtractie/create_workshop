@@ -1,0 +1,2 @@
+#!/bin/bash
+pandoc workshop.md -o workshop.pdf -V geometry:margin=0.5in
